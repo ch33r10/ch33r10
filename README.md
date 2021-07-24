@@ -1,14 +1,23 @@
-### Hi there 👋
+### <img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px">
+[![Header](https://github.com/ch33r10/ch33r10/blob/main/yaaasss/ch33r10banner.png "Header")](https://sites.google.com/view/ch33r10/me)
+### <img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px">
+
+# <img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/winking%20cat%20w%20sunglasses.gif" width="50px"> Hola | Hiya | Yo | Salut | Привет | 안녕하세요 | 你好 | أهلا <img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/winking%20cat%20w%20sunglasses.gif" width="50px">
+ <p align='center'> I'm Ch33r10! I like long walks on the <img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/ocean1.gif" width="50"> & doing <img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/computer%20retro.gif" width="50px"> things! 
+  <br></br><br>
+  <a href="https://twitter.com/Ch33r10"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a> <a href="https://www.linkedin.com/in/xena-olsen/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a> <a href="https://www.youtube.com/c/Ch33r10"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/youtube.png"></a> <a href="https://open.spotify.com/playlist/3HYb7YHTnMcBBdBSYWBeCq?si=FuorjyCfR6Ocz_MSlkf5gg&dl_branch=1"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/spotify.png"></a>
+  </br>
+</p>
 
 <!--
-**ch33r10/ch33r10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
