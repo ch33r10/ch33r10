@@ -53,7 +53,7 @@
 <p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/heartglasses1.gif" width="50px"><b>TALKS</b></h1></p>
 <ul>
  <li><b>2021</b></li>
- <ul><li>BlueSpace Ekoparty Key - Keynote</li></ul>
+ <ul><li>BlueSpace Ekoparty - Keynote</li></ul>
   <ul><li>THOTCON - Adversary Detection Pipelines: Finally Making Your Threat Intel Useful</li></ul>
  <ul><li>MindTheSec - SuperCharge Your Purple Team Exercises with Threat Intelligence</li></ul>
   <ul><li>BlueTeamVillage at DEF CON 29 - Threat Report Roulette</li></ul>
