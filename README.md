@@ -8,26 +8,13 @@
   <a href="https://twitter.com/Ch33r10"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a> <a href="https://www.linkedin.com/in/xena-olsen/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a> <a href="https://www.youtube.com/c/Ch33r10"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/youtube.png"></a> <a href="https://open.spotify.com/playlist/3HYb7YHTnMcBBdBSYWBeCq?si=FuorjyCfR6Ocz_MSlkf5gg&dl_branch=1"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/spotify.png"></a>
   </br>
 </p>
-<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/purple%20fire.gif" width="50px"><b>EDUCATION & CERTIFICATIONS</b></h1></p>
+<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/yellowglitter.gif" width="50px"><b>MY FAV RESOURCES</b></h1></p>
 <ul>
- <li>D.Sc. Cybersecurity at Marymount University (in progress)</li>
- <li>MBA IT Management 2019</li>
- <li>BSIS Humanities and Science 2013</li>
- <p></p><p>
-<img src="https://img.shields.io/badge/GXPN-RED-red?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GPEN-RED-red?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GDAT-PURPLE-purple?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCTI-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GMON-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCFE-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCIH-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GSEC-BLUE-blue?style=plastic&logo=appveyor" height="20px">
-</p>
-<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/purplegem.gif" width="50px"><b>AWARDS & SCHOLARSHIPS</b></h1></p>
-<ul>
- <li>SANS Women's Academy 2017 Graduate</li>
- <li>ESET's 6th Annual Women in Cybersecurity Scholarhip recipient 2012 - <a href="https://www.eset.com/us/about/newsroom/press-releases/eset-announces-2021-winners-of-women-in-cybersecurity-scholarship-awards/">Link</a></li>
- <li>National Science Foundation SaTC (Secure and Trustworthy Cyberspace) Participant 2020-2021</li>
- <li>Security Innovation DEF CON 27 Scholarship 2019</li>
- <li>WISPDEFCON Scholarship DEF CON 26 - 2018</li>
- <li>Women in Tech Scholarship 2017</li>
- <li>Linux Security Summit and Open Source Summit Scholarship 2017</li>
- <li>Executive Women's Forum (EWF) Future Female Leaders Scholarship Program to attend BlackHat USA 2017</li>
- <li>CCNA Cyber Operations Scholarship Program 2016</li>
-</ul>
+ <li>Purple Team Resources - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></li>
+ <li>Purple Team Exercise Idea Queue - <a href="https://docs.google.com/spreadsheets/d/1wHRrqwb1chTWP8kQqJjA2Chl7bUtCxRlobiyT3V2thE/edit#gid=267180436">Link</a></li>
+ <li>Small Business Owner CTI Resource - <a href="https://github.com/ch33r10/SANSCTISummit2021">Link</a></li>
+ <li>Stalkerware IOCs, Threat Report, & Reverse Engineering APKs - <a href="https://github.com/ch33r10/Stalkerware">Link</a></li>
+  </ul>
 <p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/chill.gif" width="50px"><b>ADVISORY BOARDS & CFP REVIEW BOARDS</b></h1></p>
 <ul>
  <li>SANS Pen Test HackFest 2021</li>
@@ -47,26 +34,13 @@
  <li>CAPWIC Capital Region Celebration of Women in Computing Scholarship Committee 2020</li>
   <li>Infragard Chicago Member</li>
 </ul>
-<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/kiss.gif" width="50px"><b>ARTICLES</b></h1></p>
-<ul>
- <li>International Women's Day 2021 SANS Blog by <a href="https://twitter.com/SANSJen">@SANSJen</a> - <a href="https://www.sans.org/blog/celebrating-international-womens-day-lessons-from-year-of-pandemic-life/">Link</a></li>
- <li>Splunk Staff Picks December 2020 by Ryan Kovar - <a href="https://www.splunk.com/en_us/blog/security/staff-picks-for-splunk-security-reading-december-2020.html">Link</a></li>
- <li>Secure Disruptions Mention by Grace Chi - <a href="https://www.securedisruptions.com/post/pulsedive-q-a-grace-chi">Link</a></li>
- <li>SANS Blog: Public Speaking: Feel the Fear and Do It Anyway by <a href="https://twitter.com/SANSJen">@SANSJen</a> - <a href="https://www.sans.org/blog/public-speaking-feel-the-fear-do-it-anyway/">Link</a></li>
- <li>Dark Reading Article by Robert Lemos - <a href="https://www.darkreading.com/threat-intelligence/cyber-intelligence-suffers-from-snobby-isolationism-focus-on-rare-threats">Link</a></li>
- <li>Dark Reading Article by Kelly Sheridan - <a href="https://www.darkreading.com/threat-intelligence/navigating-the-asia-pacific-threat-landscape-experts-dive-in">Link</a></li>
- <li>SANS Cyber Threat Intelligence Summit 2020: A Recap by Rick Holland - <a href="https://www.digitalshadows.com/blog-and-research/sans-cyber-threat-intelligence-summit-2020-a-recap/">Link</a></li>
- <li>TechTarget Article by Michael Heller - <a href="https://searchsecurity.techtarget.com/news/252470765/DerbyCon-attendees-and-co-founder-reflect-on-the-end">Link</a></li>
-<li>Tanya Janca Blog Mention for Hacker Summer Camp 2019 - <a href="https://infosecwriteups.com/hacker-summer-camp-2019-230bb0cad589">Link</a></li>
-<li>Katie Nickels Blog Mention - <a href="https://medium.com/katies-five-cents/the-struggle-between-self-promotion-and-humility-e2889b07aa38">Link</a></li>
-</ul>
 <p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/flyingmoney.gif" width="50px"><b>CONTRIBUTIONS</b></h1></p>
 <ul>
  <li>Reviewer for SCYTHE's Purple Team Exercise Framework v1 (PTEF)</li>
  <li>Field Classifications Contribution for Attack2Jira by Mauricio Velazco and Olindo Verrillo - <a href="https://github.com/mvelazc0/attack2jira/pull/16">Link</a></li>
  <li>Contributing Author to an O'Reilly book: 97 Things Every Information Security Professional Should Know by Christina Morillo <a href="https://twitter.com/divinetechygirl">@divinetechygirl</a></li> 
 </ul>
-<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/cuteicecream.gif" width="50px"><b>COMMUNITY PARTICIPATION</b></h1></p>
+<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/cuteicecream.gif" width="50px"><b>INFOSEC COMMUNITY PARTICIPATION</b></h1></p>
 <ul>
  <li>Blue Team Village Lead <a href="https://twitter.com/BlueTeamVillage">@BlueTeamVillage</a></li>
  <li>Blue Team Village Team Lead in Organizing a 3 day Conference at GrayHat 10/2020 <a href="https://www.youtube.com/playlist?list=PLvQcui-UIwfSroh1-9N1aEIVSP49tH0R_">BTV YouTube Playlist</a></li>
@@ -143,6 +117,39 @@
  <br></br>
   <li><b>2018</b></li>
  <ul><li>THEIIA/ISACA/ISSA Chicago Chapter Annual Conference - A Day in the Life of a CTI Analyst with @medic642</li></ul>
+</ul>
+<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/kiss.gif" width="50px"><b>ARTICLES</b></h1></p>
+<ul>
+ <li>International Women's Day 2021 SANS Blog by <a href="https://twitter.com/SANSJen">@SANSJen</a> - <a href="https://www.sans.org/blog/celebrating-international-womens-day-lessons-from-year-of-pandemic-life/">Link</a></li>
+ <li>Splunk Staff Picks December 2020 by Ryan Kovar - <a href="https://www.splunk.com/en_us/blog/security/staff-picks-for-splunk-security-reading-december-2020.html">Link</a></li>
+ <li>Secure Disruptions Mention by Grace Chi - <a href="https://www.securedisruptions.com/post/pulsedive-q-a-grace-chi">Link</a></li>
+ <li>SANS Blog: Public Speaking: Feel the Fear and Do It Anyway by <a href="https://twitter.com/SANSJen">@SANSJen</a> - <a href="https://www.sans.org/blog/public-speaking-feel-the-fear-do-it-anyway/">Link</a></li>
+ <li>Dark Reading Article by Robert Lemos - <a href="https://www.darkreading.com/threat-intelligence/cyber-intelligence-suffers-from-snobby-isolationism-focus-on-rare-threats">Link</a></li>
+ <li>Dark Reading Article by Kelly Sheridan - <a href="https://www.darkreading.com/threat-intelligence/navigating-the-asia-pacific-threat-landscape-experts-dive-in">Link</a></li>
+ <li>SANS Cyber Threat Intelligence Summit 2020: A Recap by Rick Holland - <a href="https://www.digitalshadows.com/blog-and-research/sans-cyber-threat-intelligence-summit-2020-a-recap/">Link</a></li>
+ <li>TechTarget Article by Michael Heller - <a href="https://searchsecurity.techtarget.com/news/252470765/DerbyCon-attendees-and-co-founder-reflect-on-the-end">Link</a></li>
+<li>Tanya Janca Blog Mention for Hacker Summer Camp 2019 - <a href="https://infosecwriteups.com/hacker-summer-camp-2019-230bb0cad589">Link</a></li>
+<li>Katie Nickels Blog Mention - <a href="https://medium.com/katies-five-cents/the-struggle-between-self-promotion-and-humility-e2889b07aa38">Link</a></li>
+</ul>
+<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/purple%20fire.gif" width="50px"><b>EDUCATION & CERTIFICATIONS</b></h1></p>
+<ul>
+ <li>D.Sc. Cybersecurity at Marymount University (in progress)</li>
+ <li>MBA IT Management 2019</li>
+ <li>BSIS Humanities and Science 2013</li>
+ <p></p><p>
+<img src="https://img.shields.io/badge/GXPN-RED-red?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GPEN-RED-red?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GDAT-PURPLE-purple?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCTI-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GMON-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCFE-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCIH-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GSEC-BLUE-blue?style=plastic&logo=appveyor" height="20px">
+</p>
+<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/purplegem.gif" width="50px"><b>AWARDS & SCHOLARSHIPS</b></h1></p>
+<ul>
+ <li>SANS Women's Academy 2017 Graduate</li>
+ <li>ESET's 6th Annual Women in Cybersecurity Scholarhip recipient 2012 - <a href="https://www.eset.com/us/about/newsroom/press-releases/eset-announces-2021-winners-of-women-in-cybersecurity-scholarship-awards/">Link</a></li>
+ <li>National Science Foundation SaTC (Secure and Trustworthy Cyberspace) Participant 2020-2021</li>
+ <li>Security Innovation DEF CON 27 Scholarship 2019</li>
+ <li>WISPDEFCON Scholarship DEF CON 26 - 2018</li>
+ <li>Women in Tech Scholarship 2017</li>
+ <li>Linux Security Summit and Open Source Summit Scholarship 2017</li>
+ <li>Executive Women's Forum (EWF) Future Female Leaders Scholarship Program to attend BlackHat USA 2017</li>
+ <li>CCNA Cyber Operations Scholarship Program 2016</li>
 </ul>
 <b></b>
 <hr></hr>
