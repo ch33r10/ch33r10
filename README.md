@@ -68,14 +68,14 @@
   <ul><li>SANS CTI Summit - Happy Hour: CTI Career Success</li></ul>
   </ul>
  <p></p><p>
-<img src="https://img.shields.io/badge/BlueSpace%20Ekoparty-black?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/BlueSpace%20Ekoparty-grey?style=plastic" height="20px">
 <img src="https://img.shields.io/badge/BlueTeamVillage%20DEF%20CON%2029-fc24de?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/ISACA%20Tucson-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/Mind%20The%20Sec-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/RSAC-black?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/ISACA%20Tucson-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/Mind%20The%20Sec-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/RSAC-grey?style=plastic" height="20px">
 <img src="https://img.shields.io/badge/SANS%20CTI%20Summit-fc24de?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/Temple%20University-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/THOTCON-black?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/Temple%20University-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/THOTCON-grey?style=plastic" height="20px">
 </p>
  <ul>
  <p><h3 align="left"><b>🔥2020</b></h3></p>
@@ -100,25 +100,25 @@
  <ul><li>SANS CTI Summit - Every Breath You Take: A CTI Review of Stalkerware</li></ul>
  </ul>
 <p></p><p>
-<img src="https://img.shields.io/badge/BlackHat%20Asia-black?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/BlackHat%20Asia-grey?style=plastic" height="20px">
 <img src="https://img.shields.io/badge/BlueTeamVillage%20DEF%20CON%2028-fc24de?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/BSides%20Porto-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/Celebration%20of%20Cyer-black?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/BSides%20Porto-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/Celebration%20of%20Cyer-grey?style=plastic" height="20px">
 <img src="https://img.shields.io/badge/CircleCityCon-fc24de?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/CONFidence%20Con-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/Department%20of%20Defense-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/Diana%20Initiative-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/Ekoparty-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/GRIMMCon-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/HATHCon-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/ITSP%20Magazine%20Podcast-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/RedTeamVillage%20DEF%20CON%2028-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/SANS%20BIPOC%20Forum-black?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/CONFidence%20Con-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/Department%20of%20Defense-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/Diana%20Initiative-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/Ekoparty-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/GRIMMCon-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/HATHCon-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/ITSP%20Magazine%20Podcast-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/RedTeamVillage%20DEF%20CON%2028-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/SANS%20BIPOC%20Forum-grey?style=plastic" height="20px">
 <img src="https://img.shields.io/badge/SANS%20CTI%20Summit-fc24de?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/ShmooCon%20XVI-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/UN%20World%20Food%20Programme-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/Unicorn%20Chef-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/WHackzCon-black?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/ShmooCon%20XVI-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/UN%20World%20Food%20Programme-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/Unicorn%20Chef-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/WHackzCon-grey?style=plastic" height="20px">
 </p>
  <ul>
  <p><h3 align="left"><b>✨2019</b></h3></p>
@@ -147,32 +147,32 @@
  <ul><li>SANS Webcast - CTI 24/7: Operationalizing Cyber Threat Intelligence</li></ul>
  </ul>
 <p></p><p>
-<img src="https://img.shields.io/badge/Art%20into%20Science%20ACoD-black?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/Art%20into%20Science%20ACoD-grey?style=plastic" height="20px">
 <img src="https://img.shields.io/badge/BlueTeamVillage%20DEF%20CON%2027-fc24de?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/Breaking%20Badness%20Podcast-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/BSides%20Chicago-black?style=plastic" height="20px"> 
+<img src="https://img.shields.io/badge/Breaking%20Badness%20Podcast-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/BSides%20Chicago-grey?style=plastic" height="20px"> 
 <img src="https://img.shields.io/badge/CircleCityCon-fc24de?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/DerbyCon%20IX-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/Diana%20Initiative-black?style=plastic" height="20px"> 
-<img src="https://img.shields.io/badge/ICMCP%20Conference-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/ISC2%20Security%20Congress-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/Mental%20Health%20Hackers-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/Purple%20Squad%20Security%20Podcast-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/RSAC-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/SANS%20Event-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/SANS%20CTI%20Summit-black?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/DerbyCon%20IX-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/Diana%20Initiative-grey?style=plastic" height="20px"> 
+<img src="https://img.shields.io/badge/ICMCP%20Conference-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/ISC2%20Security%20Congress-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/Mental%20Health%20Hackers-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/Purple%20Squad%20Security%20Podcast-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/RSAC-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/SANS%20Event-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/SANS%20CTI%20Summit-grey?style=plastic" height="20px">
 <img src="https://img.shields.io/badge/SANS%20PurpleTeam%20Summit-fc24de?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/SANS%20Webcast-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/ShmooCon%20XV-black?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/%23ShadowTalk%20Podcast-black?style=plastic" height="20px"> 
-<img src="https://img.shields.io/badge/Texas%20Cyber%20Summit-black?style=plastic" height="20px">  
+<img src="https://img.shields.io/badge/SANS%20Webcast-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/ShmooCon%20XV-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/%23ShadowTalk%20Podcast-grey?style=plastic" height="20px"> 
+<img src="https://img.shields.io/badge/Texas%20Cyber%20Summit-grey?style=plastic" height="20px">  
 </p>
 <ul>
 <p><h3 align="left"><b>😉2018</b></h3></p>
 <ul><li>THEIIA/ISACA/ISSA Chicago Chapter Annual Conference - A Day in the Life of a CTI Analyst with @medic642</li></ul>
 </ul>
 <p></p><p>
-<img src="https://img.shields.io/badge/THEIIA%20ISACA%20ISSA-black?style=plastic" height="20px"> 
+<img src="https://img.shields.io/badge/THEIIA%20ISACA%20ISSA-grey?style=plastic" height="20px"> 
 </p> 
 <p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/kiss.gif" width="50px"><b>ARTICLES</b></h1></p>
 <ul>
