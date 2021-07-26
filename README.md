@@ -8,8 +8,8 @@
 <img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/duckmoney.gif" height="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/islandlyfe.gif" height="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/edm.gif" height=100px"></p>
 <p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/yellowglitter.gif" width="50px"><b>MY FAV RESOURCES</b></h1></p>
 <ul>
- <li>Purple Team Resources - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></li>
  <li>Purple Team Exercise Idea Queue - <a href="https://docs.google.com/spreadsheets/d/1wHRrqwb1chTWP8kQqJjA2Chl7bUtCxRlobiyT3V2thE/edit#gid=267180436">Link</a></li>
+ <li>Purple Team Resources - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></li>
  <li>Small Business Owner CTI Resource - <a href="https://github.com/ch33r10/SANSCTISummit2021">Link</a></li>
  <li>Stalkerware IOCs, Threat Report, & Reverse Engineering APKs - <a href="https://github.com/ch33r10/Stalkerware">Link</a></li>
   </ul>
