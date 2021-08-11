@@ -31,6 +31,7 @@
  <li>InDUCKator <a href="https://twitter.com/fuzzysnugglyduc">#FUZZYSNUGGLYDUCK</a></li>
  <li>CAPWIC Capital Region Celebration of Women in Computing Scholarship Committee 2020</li>
   <li>Infragard Chicago Member</li>
+  <li>National Science Foundation SaTC (Secure and Trustworthy Cyberspace) Participant 2020-2021</li>
 </ul>
 <p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/flyingmoney.gif" width="50px"><b>CONTRIBUTIONS</b></h1></p>
 <ul>
@@ -200,7 +201,6 @@
 <ul>
  <li>SANS Women's Academy 2017 Graduate</li>
  <li>ESET's 6th Annual Women in Cybersecurity Scholarhip recipient 2021 - <a href="https://www.eset.com/us/about/newsroom/press-releases/eset-announces-2021-winners-of-women-in-cybersecurity-scholarship-awards/">Link</a></li>
- <li>National Science Foundation SaTC (Secure and Trustworthy Cyberspace) Participant 2020-2021</li>
  <li>Security Innovation DEF CON 27 Scholarship 2019</li>
  <li>WISPDEFCON Scholarship DEF CON 26 - 2018</li>
  <li>Women in Tech Scholarship 2017</li>
