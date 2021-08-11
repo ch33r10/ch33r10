@@ -22,7 +22,7 @@
  <li>SANS Purple Team Summit 2019 & 2021</li>
  <li>SANS EMEA CyberThreat Summit 2019 & 2021</li>
  <li>DEF CON Blue Team Village 2020 & 2021</li>
- <li>CactusCon 2019 & 2020</li>
+ <li>CactusCon 2019, 2020 & 2021</li>
  <li>CircleCityCon 2020</li>
  <li>Grayhat 2020 Blue Team Village</li>
 </ul>
@@ -40,6 +40,7 @@
 </ul>
 <p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/cuteicecream.gif" width="50px"><b>INFOSEC COMMUNITY PARTICIPATION</b></h1></p>
 <ul>
+ <li>Blue Team Village DEF CON 29 - Malware Analysis Tournament 6th Place</li>
  <li>Blue Team Village Lead <a href="https://twitter.com/BlueTeamVillage">@BlueTeamVillage</a></li>
  <li>Blue Team Village Team Lead in Organizing a 3 day Conference at GrayHat 10/2020 <a href="https://www.youtube.com/playlist?list=PLvQcui-UIwfSroh1-9N1aEIVSP49tH0R_">BTV YouTube Playlist</a></li>
  <li>Founder of the Women in Information Security Study Group - <a href="https://www.facebook.com/groups/103159756921930/">Link</a></li>
@@ -54,8 +55,8 @@
   <ul><li>BlueSpace Ekoparty - Keynote</li></ul>
   <ul><li>THOTCON - Adversary Detection Pipelines: Finally Making Your Threat Intel Useful</li></ul>
   <ul><li>MindTheSec - SuperCharge Your Purple Team Exercises with Threat Intelligence</li></ul>
-  <ul><li>BlueTeamVillage at DEF CON 29 - Threat Report Roulette</li></ul>
-  <ul><li>BlueTeamVillage at DEF CON 29 - Blue Team Village Table Top of D00M</li></ul>
+  <ul><li>BlueTeamVillage at DEF CON 29 - BTV Presents: Threat Report Roulette with Jorge Orchilles, Chris Russell, Danny D. Henderson Jr., Karan Aditya Ghoshal, Ricky Banda, Will Thomas, and Blind Hacker JoeB</li></ul>
+  <ul><li>BlueTeamVillage at DEF CON 29 - BTV Presents: Welcome to #IRLIFE. A live IR TableTop Panel with Plug, @ttheveii0x, @scsideath, @Paladin316, @innismir, Wayland &  Bassem Helmy</li></ul>
   <ul><li>ISACA Tucson - Adversary Detection Pipelines: Finally Making Your Threat Intel Useful</li></ul>
   <ul><li>Temple University - Executive MBA Guest Lecture on Enterprise Cybersecurity</li></ul>
   <ul><li>RSAC - Lessons Learned from Diverse Paths to Successful Cybersecurity Careers Panel with @hexplates & @InnoEroraha, Moderated by @John_Pescatore</li></ul>
