@@ -39,7 +39,7 @@
 <p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/cuteicecream.gif" width="50px"><b>INFOSEC COMMUNITY PARTICIPATION</b></h1></p>
 <ul>
  <li>Blue Team Village DEF CON 29 - Malware Analysis Tournament 6th Place</li>
- <li>Blue Team Village Lead <a href="https://twitter.com/BlueTeamVillage">@BlueTeamVillage</a></li>
+ <li>Blue Team Village Lead (on sabbatical until June 2022) <a href="https://twitter.com/BlueTeamVillage">@BlueTeamVillage</a></li>
  <li>Blue Team Village Team Lead in Organizing a 3 day Conference at GrayHat 10/2020 <a href="https://www.youtube.com/playlist?list=PLvQcui-UIwfSroh1-9N1aEIVSP49tH0R_">BTV YouTube Playlist</a></li>
  <li>Founder of the Women in Information Security Study Group - <a href="https://www.facebook.com/groups/103159756921930/">Link</a></li>
  <li>Circle City Con Social Media Marketing Specialist 2017-2020</li>
