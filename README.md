@@ -4,8 +4,6 @@
 <p><h1 align="center"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/winking%20cat%20w%20sunglasses.gif" width="50px"><b> Hola | Hiya | Yo | Salut | Привет | 안녕하세요 | 你好 | أهلا </b><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/winking%20cat%20w%20sunglasses.gif" width="50px"></p>
 <p>I'm Ch33r10! I like long walks on the <img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/ocean1.gif" width="50"> & doing <img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/computer%20retro.gif" width="50px"> things!</p>
 <p align="center"><a href="https://twitter.com/Ch33r10"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a> <a href="https://www.linkedin.com/in/xena-olsen/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a> <a href="https://www.youtube.com/c/Ch33r10"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/youtube.png"></a> <a href="https://open.spotify.com/playlist/20mPWgtf4Yt6QlPb5va09S?si=uMOT6bGETdyYmFgPkq7Xtg&dl_branch=1&nd=1"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/spotify.png"></a></p></h1>
-<p align="center">
-<img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/duckmoney.gif" height="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/islandlyfe.gif" height="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/edm.gif" height=100px"></p>
 <p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/yellowglitter.gif" width="50px"><b>MY FAV RESOURCES</b></h1></p>
 <ul>
  <li>Purple Team Exercise Idea Queue - <a href="https://docs.google.com/spreadsheets/d/1wHRrqwb1chTWP8kQqJjA2Chl7bUtCxRlobiyT3V2thE/edit#gid=267180436">Link</a></li>
@@ -28,7 +26,6 @@
 </ul>
 <p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/nyancat.gif" width="50px"><b>AFFILIATIONS, COMMITTEES & MEMBERSHIPS</b></h1></p>
 <ul>
- <li>InDUCKator <a href="https://twitter.com/fuzzysnugglyduc">#FUZZYSNUGGLYDUCK</a></li>
  <li>CAPWIC Capital Region Celebration of Women in Computing Scholarship Committee 2020</li>
   <li>Infragard Chicago Member</li>
   <li>National Science Foundation SaTC (Secure and Trustworthy Cyberspace) Participant 2020-2021</li>
