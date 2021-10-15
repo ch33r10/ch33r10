@@ -51,9 +51,10 @@
 <p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/heartglasses1.gif" width="50px"><b>TALKS</b></h1></p>
 <ul>
  <p><h3 align="left"><b>💯2021</b></h3></p>
-  <ul><li>BlueSpace Ekoparty - Keynote</li></ul>
+  <ul><li>KringleCon - The Abominable Snowman's Threat Hunting Adventure</li></ul>
+  <ul><li>BlueSpace Ekoparty - Keynote - Paint It, Blue: Transitioning from CTI to HUNT</li></ul>
   <ul><li>THOTCON - Adversary Detection Pipelines: Finally Making Your Threat Intel Useful</li></ul>
-  <ul><li>MindTheSec - SuperCharge Your Purple Team Exercises with Threat Intelligence</li></ul>
+  <ul><li>MindTheSec - Keynote - SuperCharge Your Purple Team Exercises with Threat Intelligence</li></ul>
   <ul><li>BlueTeamVillage at DEF CON 29 - BTV Presents: Threat Report Roulette with Jorge Orchilles, Chris Russell, Danny D. Henderson Jr., Karan Aditya Ghoshal, Ricky Banda, Will Thomas, and Blind Hacker JoeB</li></ul>
   <ul><li>BlueTeamVillage at DEF CON 29 - BTV Presents: Welcome to #IRLIFE. A live IR TableTop Panel with Plug, @ttheveii0x, @scsideath, @Paladin316, @innismir, Wayland &  Bassem Helmy</li></ul>
   <ul><li>ISACA Tucson - Adversary Detection Pipelines: Finally Making Your Threat Intel Useful</li></ul>
@@ -68,6 +69,7 @@
   <ul><li>SANS CTI Summit - Happy Hour: CTI Career Success</li></ul>
   </ul>
  <p></p><p>
+<img src="https://img.shields.io/badge/KringleCon-grey?style=plastic" height="20px">
 <img src="https://img.shields.io/badge/BlueSpace%20Ekoparty-grey?style=plastic" height="20px">
 <img src="https://img.shields.io/badge/BlueTeamVillage%20DEF%20CON%2029-fc24de?style=plastic" height="20px">
 <img src="https://img.shields.io/badge/ISACA%20Tucson-grey?style=plastic" height="20px">
