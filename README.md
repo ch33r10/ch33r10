@@ -51,6 +51,7 @@
 <ul>
  <p><h3 align="left"><b>💯2021</b></h3></p>
   <ul><li>KringleCon - The Abominable Snowman's Threat Hunting Adventure</li></ul>
+  <ul><li>BBC World Service Business Daily Interview 11/2021 - <a href="https://www.bbc.co.uk/sounds/play/w3ct1jgp">Link</a></li></ul>
   <ul><li>BlueSpace Ekoparty - Keynote - Paint It, Blue: Transitioning from CTI to HUNT</li></ul>
   <ul><li>THOTCON - Adversary Detection Pipelines: Finally Making Your Threat Intel Useful</li></ul>
   <ul><li>MindTheSec - Keynote - SuperCharge Your Purple Team Exercises with Threat Intelligence</li></ul>
@@ -69,6 +70,7 @@
   </ul>
  <p></p><p>
 <img src="https://img.shields.io/badge/KringleCon-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/BBC%20World-grey?style=plastic" height="20px">
 <img src="https://img.shields.io/badge/BlueSpace%20Ekoparty-grey?style=plastic" height="20px">
 <img src="https://img.shields.io/badge/BlueTeamVillage%20DEF%20CON%2029-fc24de?style=plastic" height="20px">
 <img src="https://img.shields.io/badge/ISACA%20Tucson-grey?style=plastic" height="20px">
