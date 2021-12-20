@@ -179,6 +179,7 @@
 </p> 
 <p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/kiss.gif" width="50px"><b>ARTICLES</b></h1></p>
 <ul>
+<li>CSO Online Article by Josh Fruhlinger - 8 top penetration testing certifications employers value - <a href="https://www.csoonline.com/article/3645089/8-top-penetration-testing-certifications-employers-value.html">Link</a></li>
 <li>International Women's Day 2021 SANS Blog by <a href="https://twitter.com/SANSJen">@SANSJen</a> - <a href="https://www.sans.org/blog/celebrating-international-womens-day-lessons-from-year-of-pandemic-life/">Link</a></li>
 <li>Splunk Staff Picks December 2020 by Ryan Kovar - <a href="https://www.splunk.com/en_us/blog/security/staff-picks-for-splunk-security-reading-december-2020.html">Link</a></li>
 <li>Secure Disruptions Mention by Grace Chi - <a href="https://www.securedisruptions.com/post/pulsedive-q-a-grace-chi">Link</a></li>
