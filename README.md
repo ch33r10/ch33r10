@@ -49,7 +49,15 @@
 </ul>
 <p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/heartglasses1.gif" width="50px"><b>TALKS</b></h1></p>
 <ul>
+ <p><h3 align="left"><b>💄2022</b></h3></p>
+ <ul><li>DEF CON SkyTalks New Year's Eve Twitch Stream</li></ul>
+   </ul>
+ <p></p><p>
+<img src="https://img.shields.io/badge/DCSkyTalks-grey?style=plastic" height="20px">
+ </p>
+ <ul>
  <p><h3 align="left"><b>💯2021</b></h3></p>
+ <ul><li>DEF CON SkyTalks New Year's Eve Twitch Stream</li></ul>
   <ul><li>KringleCon - The Abominable Snowman's Threat Hunting Adventure</li></ul>
   <ul><li>BBC World Service Business Daily Interview 11/2021 - Stalkerware: Tech-enabled domestic abuse skyrocketing - <a href="https://www.bbc.co.uk/sounds/play/w3ct1jgp">Link</a></li></ul>
   <ul><li>BlueSpace Ekoparty - Keynote - Paint It, Blue: Transitioning from CTI to HUNT</li></ul>
@@ -69,6 +77,7 @@
   <ul><li>SANS CTI Summit - Happy Hour: CTI Career Success</li></ul>
   </ul>
  <p></p><p>
+<img src="https://img.shields.io/badge/DCSkyTalks-grey?style=plastic" height="20px">
 <img src="https://img.shields.io/badge/KringleCon-grey?style=plastic" height="20px">
 <img src="https://img.shields.io/badge/BBC%20World-grey?style=plastic" height="20px">
 <img src="https://img.shields.io/badge/BlueSpace%20Ekoparty-grey?style=plastic" height="20px">
