@@ -202,11 +202,8 @@
 <li>Tanya Janca Blog Mention for Hacker Summer Camp 2019 - <a href="https://infosecwriteups.com/hacker-summer-camp-2019-230bb0cad589">Link</a></li>
 <li>Katie Nickels Blog Mention - <a href="https://medium.com/katies-five-cents/the-struggle-between-self-promotion-and-humility-e2889b07aa38">Link</a></li>
 </ul>
-<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/purple%20fire.gif" width="50px"><b>EDUCATION & CERTIFICATIONS</b></h1></p>
-<ul>
- <li>D.Sc. Cybersecurity at Marymount University (in progress)</li>
- <li>MBA IT Management 2019</li>
- <li>BSIS Humanities and Science 2013</li></ul>
+<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/purple%20fire.gif" width="50px"><b>CERTIFICATIONS</b></h1></p>
+
 <p></p><p>
 <img src="https://img.shields.io/badge/GXPN-RED-red?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GPEN-RED-red?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GDAT-PURPLE-purple?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCTI-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GMON-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCFE-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCIH-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GSEC-BLUE-blue?style=plastic&logo=appveyor" height="20px">
 </p>
