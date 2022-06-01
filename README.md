@@ -4,7 +4,6 @@
 <ul>
  <li>Doctoral Dissertation - Enterprise Purple Teaming - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></li>
  <li>Purple Team Exercise Idea Queue - <a href="https://docs.google.com/spreadsheets/d/1wHRrqwb1chTWP8kQqJjA2Chl7bUtCxRlobiyT3V2thE/edit#gid=267180436">Link</a></li>
- <li>Purple Team Resources - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></li>
  <li>Small Business Owner CTI Resource - <a href="https://github.com/ch33r10/SANSCTISummit2021">Link</a></li>
  <li>Stalkerware IOCs, Threat Report, & Reverse Engineering APKs - <a href="https://github.com/ch33r10/Stalkerware">Link</a></li>
   </ul>
