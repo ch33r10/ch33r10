@@ -2,6 +2,7 @@
 <p><h1 align="center"><b> Hola | Hiya | Yo | Salut | Привет | 안녕하세요 | 你好 | أهلا </b></p></h1>
 <p align="center"><a href="https://twitter.com/Ch33r10"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a> <a href="https://www.linkedin.com/in/xena-olsen/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a> <a href="https://www.youtube.com/c/Ch33r10"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/youtube.png"></a> <a href="https://open.spotify.com/playlist/20mPWgtf4Yt6QlPb5va09S?si=uMOT6bGETdyYmFgPkq7Xtg&dl_branch=1&nd=1"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/spotify.png"></a></p></h1>
 <ul>
+ <li>Doctoral Dissertation - Enterprise Purple Teaming - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></li>
  <li>Purple Team Exercise Idea Queue - <a href="https://docs.google.com/spreadsheets/d/1wHRrqwb1chTWP8kQqJjA2Chl7bUtCxRlobiyT3V2thE/edit#gid=267180436">Link</a></li>
  <li>Purple Team Resources - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></li>
  <li>Small Business Owner CTI Resource - <a href="https://github.com/ch33r10/SANSCTISummit2021">Link</a></li>
