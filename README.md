@@ -46,15 +46,18 @@
 <p><h1 align="left"><b>TALKS</b></h1></p>
 <ul>
  <p><h3 align="left"><b>💄2022</b></h3></p>
+ <ul><li>DEF CON 30 Blue Team Village Panel - The DFIR REPORT Homecoming Parade</li></ul>
  <ul><li>RSAC Dark Arts Village - Let's Get Offensive: Building A Purple Culture</li></ul>
   <ul><li>ISACA Madison - Adversary Detection Pipelines: Finally Making Your Threat Intel Useful</li></ul>
  <ul><li>SunflowerCon - International Cybersecurity Incidents for In-House CTI Analysts (DONATE TO NOVA UKRAINE at <a href="https://novaukraine.org/">novaukraine.org</a>)</li></ul>
  <ul><li>DEF CON SkyTalks New Year's Eve Twitch Stream</li></ul>
    </ul>
  <p></p><p>
-<img src="https://img.shields.io/badge/DCSkyTalks-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/BlueTeamVillage%20DEF%20CON%2030-fc24de?style=plastic" height="20px"> 
+ <img src="https://img.shields.io/badge/RSAC%20Dark%20Arts%20Village-grey?style=plastic" height="20px">
+ <img src="https://img.shields.io/badge/ISACA%20Madison-grey?style=plastic" height="20px">
 <img src="https://img.shields.io/badge/SunflowerCon-grey?style=plastic" height="20px">
-<img src="https://img.shields.io/badge/ISACA%20Madison-grey?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/DCSkyTalks-grey?style=plastic" height="20px">
  </p>
  <ul>
  <p><h3 align="left"><b>💯2021</b></h3></p>
