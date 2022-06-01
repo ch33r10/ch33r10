@@ -1,17 +1,13 @@
-### <p align='center'><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"></p>
 [![Header](https://github.com/ch33r10/ch33r10/blob/main/yaaasss/githhub%20profile%20banner_xo.png "Header")](https://sites.google.com/view/ch33r10/me)
-### <p align='center'><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/starstuff.gif" width="100px"></p>
-<p><h1 align="center"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/winking%20cat%20w%20sunglasses.gif" width="50px"><b> Hola | Hiya | Yo | Salut | Привет | 안녕하세요 | 你好 | أهلا </b><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/winking%20cat%20w%20sunglasses.gif" width="50px"></p>
-<p>I'm Ch33r10! I like long walks on the <img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/ocean1.gif" width="50"> & doing <img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/computer%20retro.gif" width="50px"> things!</p>
+<p><h1 align="center"><b> Hola | Hiya | Yo | Salut | Привет | 안녕하세요 | 你好 | أهلا </b></p></h1>
 <p align="center"><a href="https://twitter.com/Ch33r10"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a> <a href="https://www.linkedin.com/in/xena-olsen/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a> <a href="https://www.youtube.com/c/Ch33r10"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/youtube.png"></a> <a href="https://open.spotify.com/playlist/20mPWgtf4Yt6QlPb5va09S?si=uMOT6bGETdyYmFgPkq7Xtg&dl_branch=1&nd=1"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/spotify.png"></a></p></h1>
-<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/yellowglitter.gif" width="50px"><b>MY FAV RESOURCES</b></h1></p>
 <ul>
  <li>Purple Team Exercise Idea Queue - <a href="https://docs.google.com/spreadsheets/d/1wHRrqwb1chTWP8kQqJjA2Chl7bUtCxRlobiyT3V2thE/edit#gid=267180436">Link</a></li>
  <li>Purple Team Resources - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></li>
  <li>Small Business Owner CTI Resource - <a href="https://github.com/ch33r10/SANSCTISummit2021">Link</a></li>
  <li>Stalkerware IOCs, Threat Report, & Reverse Engineering APKs - <a href="https://github.com/ch33r10/Stalkerware">Link</a></li>
   </ul>
-<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/chill.gif" width="50px"><b>ADVISORY BOARDS & CFP REVIEW BOARDS</b></h1></p>
+<p><h1 align="left"><b>ADVISORY BOARDS & CFP REVIEW BOARDS</b></h1></p>
 <ul>
  <li>SANS Pen Test HackFest 2021</li>
  <li>SANS CTI Summit 2021</li>
@@ -24,19 +20,19 @@
  <li>CircleCityCon 2020</li>
  <li>Grayhat 2020 Blue Team Village</li>
 </ul>
-<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/nyancat.gif" width="50px"><b>AFFILIATIONS, COMMITTEES & MEMBERSHIPS</b></h1></p>
+<p><h1 align="left"><b>AFFILIATIONS, COMMITTEES & MEMBERSHIPS</b></h1></p>
 <ul>
  <li>CAPWIC Capital Region Celebration of Women in Computing Scholarship Committee 2020</li>
   <li>Infragard Chicago Member</li>
   <li>National Science Foundation SaTC (Secure and Trustworthy Cyberspace) Participant 2020-2021</li>
 </ul>
-<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/flyingmoney.gif" width="50px"><b>CONTRIBUTIONS</b></h1></p>
+<p><h1 align="left"><b>CONTRIBUTIONS</b></h1></p>
 <ul>
  <li>Reviewer for SCYTHE's Purple Team Exercise Framework v1 (PTEF)</li>
  <li>Field Classifications Contribution for Attack2Jira by Mauricio Velazco and Olindo Verrillo - <a href="https://github.com/mvelazc0/attack2jira/pull/16">Link</a></li>
  <li>Contributing Author to an O'Reilly book: 97 Things Every Information Security Professional Should Know by Christina Morillo <a href="https://twitter.com/divinetechygirl">@divinetechygirl</a></li> 
 </ul>
-<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/cuteicecream.gif" width="50px"><b>INFOSEC COMMUNITY PARTICIPATION</b></h1></p>
+<p><h1 align="left"><b>INFOSEC COMMUNITY PARTICIPATION</b></h1></p>
 <ul>
  <li>Blue Team Village DEF CON 29 - Malware Analysis Tournament 6th Place</li>
  <li>Blue Team Village Lead (on sabbatical until June 2022) <a href="https://twitter.com/BlueTeamVillage">@BlueTeamVillage</a></li>
@@ -47,12 +43,13 @@
  <li>DC602 Web Designer 2017</li>
  <li>CCNA Cyber Ops Study Group Moderator 2016+</li>
 </ul>
-<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/heartglasses1.gif" width="50px"><b>TALKS</b></h1></p>
+<p><h1 align="left"><b>TALKS</b></h1></p>
 <ul>
  <p><h3 align="left"><b>💄2022</b></h3></p>
- <ul><li>DEF CON SkyTalks New Year's Eve Twitch Stream</li></ul>
+ <ul><li>RSAC Dark Arts Village - Let's Get Offensive: Building A Purple Culture</li></ul>
+  <ul><li>ISACA Madison - Adversary Detection Pipelines: Finally Making Your Threat Intel Useful</li></ul>
  <ul><li>SunflowerCon - International Cybersecurity Incidents for In-House CTI Analysts (DONATE TO NOVA UKRAINE at <a href="https://novaukraine.org/">novaukraine.org</a>)</li></ul>
- <ul><li>ISACA Madison - Adversary Detection Pipelines: Finally Making Your Threat Intel Useful</li></ul>
+ <ul><li>DEF CON SkyTalks New Year's Eve Twitch Stream</li></ul>
    </ul>
  <p></p><p>
 <img src="https://img.shields.io/badge/DCSkyTalks-grey?style=plastic" height="20px">
@@ -190,7 +187,7 @@
 <p></p><p>
 <img src="https://img.shields.io/badge/THEIIA%20ISACA%20ISSA-grey?style=plastic" height="20px"> 
 </p> 
-<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/kiss.gif" width="50px"><b>ARTICLES</b></h1></p>
+<p><h1 align="left"><b>ARTICLES</b></h1></p>
 <ul>
 <li>CSO Online Article by Josh Fruhlinger - 8 top penetration testing certifications employers value - <a href="https://www.csoonline.com/article/3645089/8-top-penetration-testing-certifications-employers-value.html">Link</a></li>
 <li>International Women's Day 2021 SANS Blog by <a href="https://twitter.com/SANSJen">@SANSJen</a> - <a href="https://www.sans.org/blog/celebrating-international-womens-day-lessons-from-year-of-pandemic-life/">Link</a></li>
@@ -204,7 +201,7 @@
 <li>Tanya Janca Blog Mention for Hacker Summer Camp 2019 - <a href="https://infosecwriteups.com/hacker-summer-camp-2019-230bb0cad589">Link</a></li>
 <li>Katie Nickels Blog Mention - <a href="https://medium.com/katies-five-cents/the-struggle-between-self-promotion-and-humility-e2889b07aa38">Link</a></li>
 </ul>
-<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/purple%20fire.gif" width="50px"><b>EDUCATION & CERTIFICATIONS</b></h1></p>
+<p><h1 align="left"><b>EDUCATION & CERTIFICATIONS</b></h1></p>
 <ul>
  <li>D.Sc. Cybersecurity at Marymount University (in progress)</li>
  <li>MBA IT Management 2019</li>
@@ -212,7 +209,7 @@
 <p></p><p>
 <img src="https://img.shields.io/badge/GXPN-RED-red?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GPEN-RED-red?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GDAT-PURPLE-purple?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCTI-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GMON-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCFE-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCIH-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GSEC-BLUE-blue?style=plastic&logo=appveyor" height="20px">
 </p>
-<p><h1 align="left"><img src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/purplegem.gif" width="50px"><b>AWARDS & SCHOLARSHIPS</b></h1></p>
+<p><h1 align="left"><b>AWARDS & SCHOLARSHIPS</b></h1></p>
 <ul>
  <li>SANS Women's Academy 2017 Graduate</li>
  <li>ESET's 6th Annual Women in Cybersecurity Scholarhip recipient 2021 - <a href="https://www.eset.com/us/about/newsroom/press-releases/eset-announces-2021-winners-of-women-in-cybersecurity-scholarship-awards/">Link</a></li>
