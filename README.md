@@ -206,7 +206,7 @@
 </ul>
 <p><h1 align="left"><b>EDUCATION & CERTIFICATIONS</b></h1></p>
 <ul>
- <li>D.Sc. Cybersecurity at Marymount University (in progress)</li>
+ <li>D.Sc. Cybersecurity at Marymount University 2022 </li>
  <li>MBA IT Management 2019</li>
  <li>BSIS Humanities and Science 2013</li></ul>
 <p></p><p>
