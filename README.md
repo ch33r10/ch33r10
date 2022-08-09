@@ -9,7 +9,7 @@
   </ul>
 <p><h1 align="left"><b>ADVISORY BOARDS & CFP REVIEW BOARDS</b></h1></p>
 <ul>
- <li>SANS Pen Test HackFest 2021</li>
+ <li>SANS Pen Test HackFest 2021 & 2022</li>
  <li>SANS CTI Summit 2021</li>
  <li>Purple Team Summit 2020</li>
  <li>SANS Summit Steering Committee Member 2020</li>
