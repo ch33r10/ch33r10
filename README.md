@@ -22,6 +22,7 @@
 </ul>
 <p><h1 align="left"><b>AFFILIATIONS, COMMITTEES & MEMBERSHIPS</b></h1></p>
 <ul>
+<li>H-ISAC Threat Intelligence Committee (TIC) Chair December 2022 to Present</li>
  <li>CAPWIC Capital Region Celebration of Women in Computing Scholarship Committee 2020</li>
   <li>Infragard Chicago Member</li>
   <li>National Science Foundation SaTC (Secure and Trustworthy Cyberspace) Participant 2020-2021</li>
@@ -46,6 +47,8 @@
 <p><h1 align="left"><b>TALKS</b></h1></p>
 <ul>
  <p><h3 align="left"><b>💄2022</b></h3></p>
+ <ul><li>H-ISAC October 2022 Monthly Threat Briefing - MFA/VPN Threats</li></ul>
+ <ul><li>H-ISAC Purple Team Working Group - Enterprise Purple Teaming</li></ul>
  <ul><li>Marymount University - My Doctoral Dissertation Journey</li></ul>
  <ul><li>H-ISAC Cyber Threat Intel Program Development Working Group - CTI Program Development Workshop</li></ul>
  <ul><li>DEF CON 30 Blue Team Village Panel - The DFIR REPORT Homecoming Parade</li></ul>
@@ -196,6 +199,7 @@
 </p> 
 <p><h1 align="left"><b>ARTICLES</b></h1></p>
 <ul>
+<li>LatinaStyle Article - Advocacy and Sponorship are Vital by Dr. Xena Olsen, MBA - <a href="http://www.magazinevolume.com/35350LS/">Link</a> p. 48</li>
 <li>CSO Online Article by Josh Fruhlinger - 8 top penetration testing certifications employers value - <a href="https://www.csoonline.com/article/3645089/8-top-penetration-testing-certifications-employers-value.html">Link</a></li>
 <li>International Women's Day 2021 SANS Blog by <a href="https://twitter.com/SANSJen">@SANSJen</a> - <a href="https://www.sans.org/blog/celebrating-international-womens-day-lessons-from-year-of-pandemic-life/">Link</a></li>
 <li>Splunk Staff Picks December 2020 by Ryan Kovar - <a href="https://www.splunk.com/en_us/blog/security/staff-picks-for-splunk-security-reading-december-2020.html">Link</a></li>
