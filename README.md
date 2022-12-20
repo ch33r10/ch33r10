@@ -199,6 +199,7 @@
 </p> 
 <p><h1 align="left"><b>ARTICLES</b></h1></p>
 <ul>
+ <li>Marymount University Spotlight - Dr. Xena Olsen - <a href="https://marymount.edu/spotlights/dr-xena-olsen/">Link</a></li>
 <li>LatinaStyle Article - Advocacy and Sponorship are Vital by Dr. Xena Olsen, MBA - <a href="http://www.magazinevolume.com/35350LS/">Link</a> p. 48</li>
 <li>CSO Online Article by Josh Fruhlinger - 8 top penetration testing certifications employers value - <a href="https://www.csoonline.com/article/3645089/8-top-penetration-testing-certifications-employers-value.html">Link</a></li>
 <li>International Women's Day 2021 SANS Blog by <a href="https://twitter.com/SANSJen">@SANSJen</a> - <a href="https://www.sans.org/blog/celebrating-international-womens-day-lessons-from-year-of-pandemic-life/">Link</a></li>
@@ -222,6 +223,7 @@
 </p>
 <p><h1 align="left"><b>AWARDS & SCHOLARSHIPS</b></h1></p>
 <ul>
+ <li>SANS FOR508 Capstone Challenge Coin Recipient - Team ChatGPT Ninja LLC</li>
  <li>SANS Women's Academy 2017 Graduate</li>
  <li>ESET's 6th Annual Women in Cybersecurity Scholarhip recipient 2021 - <a href="https://www.eset.com/us/about/newsroom/press-releases/eset-announces-2021-winners-of-women-in-cybersecurity-scholarship-awards/">Link</a></li>
  <li>Security Innovation DEF CON 27 Scholarship 2019</li>
