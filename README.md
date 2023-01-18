@@ -22,7 +22,7 @@
 </ul>
 <p><h1 align="left"><b>AFFILIATIONS, COMMITTEES & MEMBERSHIPS</b></h1></p>
 <ul>
-<li>H-ISAC Threat Intelligence Committee (TIC) Chair December 2022 to Present</li>
+<li>H-ISAC Cyber Threat Intel Program Development Working Group Chair January 2023 to Present</li>
  <li>CAPWIC Capital Region Celebration of Women in Computing Scholarship Committee 2020</li>
   <li>Infragard Chicago Member</li>
   <li>National Science Foundation SaTC (Secure and Trustworthy Cyberspace) Participant 2020-2021</li>
