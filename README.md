@@ -9,7 +9,7 @@
   </ul>
 <p><h1 align="left"><b>ADVISORY BOARDS & CFP REVIEW BOARDS</b></h1></p>
 <ul>
- <li>SANS Pen Test HackFest 2021 & 2022</li>
+ <li>SANS Pen Test HackFest 2021, 2022 & 2023</li>
  <li>SANS CTI Summit 2021</li>
  <li>Purple Team Summit 2020</li>
  <li>SANS Summit Steering Committee Member 2020</li>
@@ -23,6 +23,7 @@
 <p><h1 align="left"><b>AFFILIATIONS, COMMITTEES & MEMBERSHIPS</b></h1></p>
 <ul>
 <li>H-ISAC Cyber Threat Intel Program Development Working Group Chair January 2023 to Present</li>
+ <li>ESET Women in Cybersecurity Scholarship Committee 2023</li>
  <li>CAPWIC Capital Region Celebration of Women in Computing Scholarship Committee 2020</li>
   <li>Infragard Chicago Member</li>
   <li>National Science Foundation SaTC (Secure and Trustworthy Cyberspace) Participant 2020-2021</li>
@@ -45,6 +46,16 @@
  <li>CCNA Cyber Ops Study Group Moderator 2016+</li>
 </ul>
 <p><h1 align="left"><b>TALKS</b></h1></p>
+<ul>
+ <p><h3 align="left"><b>😍2023</b></h3></p>
+ <ul><li>H-ISAC Cyber Threat Intel Program Development Working Group - The Expanding Universe of Cyber Threats</li></ul>
+ <ul><li>BSidesSF - Keynote - The Expanding Universe of Cyber Threats</li></ul>
+</ul> 
+<p></p><p>
+<img src="https://img.shields.io/badge/HISAC-fc24de?style=plastic" height="20px">
+ <img src="https://img.shields.io/badge/BSidesSF-grey?style=plastic" height="20px">
+ </p>
+ </ul>
 <ul>
  <p><h3 align="left"><b>💄2022</b></h3></p>
  <ul><li>H-ISAC October 2022 Monthly Threat Briefing - MFA/VPN Threats</li></ul>
