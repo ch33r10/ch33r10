@@ -14,7 +14,7 @@
  <li>Purple Team Summit 2020</li>
  <li>SANS Summit Steering Committee Member 2020</li>
  <li>SANS Purple Team Summit 2019 & 2021</li>
- <li>SANS EMEA CyberThreat Summit 2019 & 2022</li>
+ <li>SANS EMEA CyberThreat Summit 2019, 2022 & 2023</li>
  <li>DEF CON Blue Team Village 2020 - 2022</li>
  <li>CactusCon 2019, 2020, 2021 & 2022</li>
  <li>CircleCityCon 2020</li>
@@ -22,11 +22,15 @@
 </ul>
 <p><h1 align="left"><b>AFFILIATIONS, COMMITTEES & MEMBERSHIPS</b></h1></p>
 <ul>
-<li>H-ISAC Cyber Threat Intel Program Development Working Group Chair January 2023 to Present</li>
+  <li>Crimeware Member - 2019 to Present</li>
+ <li>Curated Intelligence Member - July 2021 to Present</li>
+  <li>Infragard Chicago Member 2019 to Present</li>
+ <li>YaraExchange Member - 2019 to Present</li>
+<li>H-ISAC Cyber Threat Intel Program Development Working Group Chair - January 2023 to June 2023</li>
+ <li>H-ISAC Threat Intelligence Committee Member - August 2022 to June 2023</li>
  <li>ESET Women in Cybersecurity Scholarship Committee 2023</li>
- <li>CAPWIC Capital Region Celebration of Women in Computing Scholarship Committee 2020</li>
-  <li>Infragard Chicago Member</li>
   <li>National Science Foundation SaTC (Secure and Trustworthy Cyberspace) Participant 2020-2021</li>
+ <li>CAPWIC Capital Region Celebration of Women in Computing Scholarship Committee 2020</li>
 </ul>
 <p><h1 align="left"><b>CONTRIBUTIONS</b></h1></p>
 <ul>
@@ -226,7 +230,8 @@
 </ul>
 <p><h1 align="left"><b>EDUCATION & CERTIFICATIONS</b></h1></p>
 <ul>
- <li>D.Sc. Cybersecurity at Marymount University 2022 </li>
+ <li>McKinsey Connected Leaders Academy - Management Accelerator Program, May 2023 - June 2023</li>
+ <li>D.Sc. Cybersecurity at Marymount University 2022 - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></li>
  <li>MBA IT Management 2019</li>
  <li>BSIS Humanities and Science 2013</li></ul>
 <p></p><p>
@@ -234,7 +239,7 @@
 </p>
 <p><h1 align="left"><b>AWARDS & SCHOLARSHIPS</b></h1></p>
 <ul>
- <li>SANS FOR508 Capstone Challenge Coin Recipient - Team ChatGPT Ninja LLC</li>
+ <li>SANS FOR508 Capstone Challenge Coin Recipient - Team ChatGPT Ninja LLC - December 2022</li>
  <li>SANS Women's Academy 2017 Graduate</li>
  <li>ESET's 6th Annual Women in Cybersecurity Scholarhip recipient 2021 - <a href="https://www.eset.com/us/about/newsroom/press-releases/eset-announces-2021-winners-of-women-in-cybersecurity-scholarship-awards/">Link</a></li>
  <li>Security Innovation DEF CON 27 Scholarship 2019</li>
