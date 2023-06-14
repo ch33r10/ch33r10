@@ -10,13 +10,13 @@
 <p><h1 align="left"><b>ADVISORY BOARDS & CFP REVIEW BOARDS</b></h1></p>
 <ul>
  <li>SANS Pen Test HackFest 2021, 2022 & 2023</li>
+ <li>SANS EMEA CyberThreat Summit 2019, 2022 & 2023</li>
+  <li>CactusCon 2019, 2020, 2021 & 2022</li>
+ <li>DEF CON Blue Team Village 2020 - 2022</li>
  <li>SANS CTI Summit 2021</li>
  <li>Purple Team Summit 2020</li>
+  <li>SANS Purple Team Summit 2019 & 2021</li>
  <li>SANS Summit Steering Committee Member 2020</li>
- <li>SANS Purple Team Summit 2019 & 2021</li>
- <li>SANS EMEA CyberThreat Summit 2019, 2022 & 2023</li>
- <li>DEF CON Blue Team Village 2020 - 2022</li>
- <li>CactusCon 2019, 2020, 2021 & 2022</li>
  <li>CircleCityCon 2020</li>
  <li>Grayhat 2020 Blue Team Village</li>
 </ul>
