@@ -45,7 +45,7 @@
  <li>Blue Team Village Team Lead in Organizing a 3 day Conference at GrayHat 10/2020 <a href="https://www.youtube.com/playlist?list=PLvQcui-UIwfSroh1-9N1aEIVSP49tH0R_">BTV YouTube Playlist</a></li>
  <li>Founder of the Women in Information Security Study Group - <a href="https://www.facebook.com/groups/103159756921930/">Link</a></li>
  <li>Circle City Con Social Media Marketing Specialist 2017-2020</li>
- <li>Diana Initative Volunteer 8/2018</li>
+ <li>Diana Initiative Volunteer 8/2018</li>
  <li>DC602 Web Designer 2017</li>
  <li>CCNA Cyber Ops Study Group Moderator 2016+</li>
 </ul>
@@ -95,7 +95,7 @@
   <ul><li>Temple University - Executive MBA Guest Lecture on Enterprise Cybersecurity</li></ul>
   <ul><li>RSAC - Lessons Learned from Diverse Paths to Successful Cybersecurity Careers Panel with @hexplates & @InnoEroraha, Moderated by @John_Pescatore</li></ul>
   <ul><li>RSAC - Jill and the BeenSTALKed Panel with @C_3PJoe, Moderated by @ChloeMessdaghi</li></ul>
-  <ul><li>SANS CTI Summit - The CTI Shadow Army: Tales from the Trenches - Small Business Onwer/Solopreneur Edition</li></ul>
+  <ul><li>SANS CTI Summit - The CTI Shadow Army: Tales from the Trenches - Small Business Owner/Solopreneur Edition</li></ul>
   <ul><ul><li>Video - <a href="https://www.youtube.com/watch?v=fjZYgQISTCg">Link</a></ul></ul></li>
   <ul><ul><li>GitHub - <a href="https://github.com/ch33r10/SANSCTISummit2021">Link</a></ul></ul></li>
   <ul><li>SANS CTI Summit - DAY 1 Wrap-Up Panel</li></ul>
@@ -123,7 +123,7 @@
  <ul><li>Ekoparty - Every Breath You Take: A CTI Review of Stalkerware</li></ul>
  <ul><li>HATHCon - Cultivate Your Human Network Like a Garden Panel with @InfosecSherpa @Djax_Alpha</li></ul>
  <ul><li>CONFidence Conf - Super Charge Your Purple Team Exercises with Threat Intelligence</li></ul>
- <ul><li>Diana Initative - CTI Mindset as a Technique for Blue Teamers</li></ul>
+ <ul><li>Diana Initiative - CTI Mindset as a Technique for Blue Teamers</li></ul>
  <ul><li>ITSP Magazine Podcast - Purple Teaming and CTI</li></ul>
  <ul><li>RedTeamVillage at DEF CON 28 - Indicators of Emulation: Extra Spicy Adversary Emulation with @haydnjohnson</li></ul>
  <ul><li>BlueTeamVillage at DEF CON 28 - Indicators of Emulation</li></ul>
@@ -171,13 +171,13 @@
  <ul><li>SANS Women's Connect Event - My Infosec Journey</li></ul>
  <ul><li>Breaking Badness Podcast - Summer Camp 2019 Mini-Series</li></ul>
  <ul><li>Diana Initiative - CTI AfterDark</li></ul>
- <ul><li>Diana Initative - In The Wake of Advanced Persisent Threat...to Your Personal Safety with @hexplates</li></ul>
+ <ul><li>Diana Initiative - In The Wake of Advanced Persistent Threat...to Your Personal Safety with @hexplates</li></ul>
  <ul><li>BlueTeamVillage at DEF CON 27 - The Cyber Threat Intelligence Mindset</li></ul>
  <ul><li>SANS Webcast - ATT&CKing your Enterprise: Adversary Detection Pipelines & Adversary Simulation with @BenGoerz</li></ul>
  <ul><li>Purple Squad Security Podcast - Episode 59: Business Processes in Infosec with Cheerio</li></ul>
  <ul><li>CircleCityCon - F! Attribution</li></ul>
  <ul><li>RSAC - IOT Security Panel</li></ul>
- <ul><li>RSAC - Peer2Peer Session: Leveraging Tactical Threat Intelligence for Strategic Decsion Making</li></ul>
+ <ul><li>RSAC - Peer2Peer Session: Leveraging Tactical Threat Intelligence for Strategic Decision Making</li></ul>
  <ul><li>RSAC - Birds of a Feather: Everyday Leadership for Women in Information Security</li></ul>
  <ul><li>Art into Science: A Conference for Defense ACoD - CTI 24/7: Operationalizing Cyber Threat Intelligence</li></ul>
  <ul><li>SANS CTI Summit - Lightning Talk</li></ul>
@@ -214,8 +214,9 @@
 </p> 
 <p><h1 align="left"><b>ARTICLES</b></h1></p>
 <ul>
+ <li>tl;dr sec Newsletter mention - Enterprise Purple Teaming - <a href="https://tldrsec.com/p/tldr-sec-186">Link</a></li> 
  <li>Marymount University Spotlight - Dr. Xena Olsen - <a href="https://marymount.edu/spotlights/dr-xena-olsen/">Link</a></li>
-<li>LatinaStyle Article - Advocacy and Sponorship are Vital by Dr. Xena Olsen, MBA - <a href="http://www.magazinevolume.com/35350LS/">Link</a> p. 48</li>
+<li>LatinaStyle Article - Advocacy and Sponsorship are Vital by Dr. Xena Olsen, MBA - <a href="http://www.magazinevolume.com/35350LS/">Link</a> p. 48</li>
 <li>CSO Online Article by Josh Fruhlinger - 8 top penetration testing certifications employers value - <a href="https://www.csoonline.com/article/3645089/8-top-penetration-testing-certifications-employers-value.html">Link</a></li>
 <li>International Women's Day 2021 SANS Blog by <a href="https://twitter.com/SANSJen">@SANSJen</a> - <a href="https://www.sans.org/blog/celebrating-international-womens-day-lessons-from-year-of-pandemic-life/">Link</a></li>
 <li>Splunk Staff Picks December 2020 by Ryan Kovar - <a href="https://www.splunk.com/en_us/blog/security/staff-picks-for-splunk-security-reading-december-2020.html">Link</a></li>
@@ -241,7 +242,7 @@
 <ul>
  <li>SANS FOR508 Capstone Challenge Coin Recipient - Team ChatGPT Ninja LLC - December 2022</li>
  <li>SANS Women's Academy 2017 Graduate</li>
- <li>ESET's 6th Annual Women in Cybersecurity Scholarhip recipient 2021 - <a href="https://www.eset.com/us/about/newsroom/press-releases/eset-announces-2021-winners-of-women-in-cybersecurity-scholarship-awards/">Link</a></li>
+ <li>ESET's 6th Annual Women in Cybersecurity Scholarship recipient 2021 - <a href="https://www.eset.com/us/about/newsroom/press-releases/eset-announces-2021-winners-of-women-in-cybersecurity-scholarship-awards/">Link</a></li>
  <li>Security Innovation DEF CON 27 Scholarship 2019</li>
  <li>WISPDEFCON Scholarship DEF CON 26 - 2018</li>
  <li>Women in Tech Scholarship 2017</li>
