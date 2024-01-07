@@ -245,7 +245,7 @@
 <ul>
  <li>Cornell - Leadership Essential Certificate - December 2023 - July 2024</li>
 <li>Cornell - Psychology of Leadership Certificate - January 2024 - July 2024</li>
- <li>Oakton Community College - Leadership and Management Courses - Sring 2024</li>
+ <li>Oakton Community College - Leadership and Management Courses - Spring 2024</li>
  <li>The Leadership Consortium - Leadership Training - September 2023 - November 2023</li>
  <li>McKinsey Connected Leaders Academy - Management Accelerator Program - May 2023 - June 2023</li>
  <li>D.Sc. Cybersecurity at Marymount University 2022 - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></li>
