@@ -243,7 +243,11 @@
 </ul>
 <p><h1 align="left"><b>EDUCATION & CERTIFICATIONS</b></h1></p>
 <ul>
- <li>McKinsey Connected Leaders Academy - Management Accelerator Program, May 2023 - June 2023</li>
+ <li>Cornell - Leadership Essential Certificate - December 2023 - July 2024</li>
+<li>Cornell - Psychology of Leadership Certificate - January 2024 - July 2024</li>
+ <li>Oakton Community College - Leadership and Management Courses - Sring 2024</li>
+ <li>The Leadership Consortium - Leadership Training - September 2023 - November 2023</li>
+ <li>McKinsey Connected Leaders Academy - Management Accelerator Program - May 2023 - June 2023</li>
  <li>D.Sc. Cybersecurity at Marymount University 2022 - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></li>
  <li>MBA IT Management 2019</li>
  <li>BSIS Humanities and Science 2013</li></ul>
