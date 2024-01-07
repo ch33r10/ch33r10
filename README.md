@@ -9,9 +9,9 @@
   </ul>
 <p><h1 align="left"><b>ADVISORY BOARDS & CFP REVIEW BOARDS</b></h1></p>
 <ul>
+  <li>SANS EMEA CyberThreat Summit 2019, 2022, 2023 & 2024</li>
+  <li>CactusCon 2019, 2020, 2021, 2022 & 2023</li>
  <li>SANS Pen Test HackFest 2021, 2022 & 2023</li>
- <li>SANS EMEA CyberThreat Summit 2019, 2022 & 2023</li>
-  <li>CactusCon 2019, 2020, 2021 & 2022</li>
  <li>DEF CON Blue Team Village 2020 - 2022</li>
  <li>SANS CTI Summit 2021</li>
  <li>Purple Team Summit 2020</li>
@@ -26,6 +26,7 @@
  <li>Curated Intelligence Member - July 2021 to Present</li>
   <li>Infragard Chicago Member 2019 to Present</li>
  <li>YaraExchange Member - 2019 to Present</li>
+ <li>FS-ISAC Member - August 2023 to Present</li>
 <li>H-ISAC Cyber Threat Intel Program Development Working Group Chair - January 2023 to June 2023</li>
  <li>H-ISAC Threat Intelligence Committee Member - August 2022 to June 2023</li>
  <li>ESET Women in Cybersecurity Scholarship Committee 2023</li>
@@ -40,9 +41,10 @@
 </ul>
 <p><h1 align="left"><b>INFOSEC COMMUNITY PARTICIPATION</b></h1></p>
 <ul>
+ <li>SANS Holiday Hack Voice for an Elf at the end of the CTF - 12/2023</li>
  <li>Blue Team Village DEF CON 29 - Malware Analysis Tournament 6th Place</li>
  <li>Blue Team Village Lead (on sabbatical until June 2022) <a href="https://twitter.com/BlueTeamVillage">@BlueTeamVillage</a></li>
- <li>Blue Team Village Team Lead in Organizing a 3 day Conference at GrayHat 10/2020 <a href="https://www.youtube.com/playlist?list=PLvQcui-UIwfSroh1-9N1aEIVSP49tH0R_">BTV YouTube Playlist</a></li>
+ <li>Blue Team Village Team Lead in Organizing a 3-day Conference at GrayHat 10/2020 <a href="https://www.youtube.com/playlist?list=PLvQcui-UIwfSroh1-9N1aEIVSP49tH0R_">BTV YouTube Playlist</a></li>
  <li>Founder of the Women in Information Security Study Group - <a href="https://www.facebook.com/groups/103159756921930/">Link</a></li>
  <li>Circle City Con Social Media Marketing Specialist 2017-2020</li>
  <li>Diana Initiative Volunteer 8/2018</li>
@@ -51,13 +53,23 @@
 </ul>
 <p><h1 align="left"><b>TALKS</b></h1></p>
 <ul>
+ <p><h3 align="left"><b>🏖️2024</b></h3></p>
+  <ul><li>ChiBrrCon - Building Your First Cybersecurity Program from Scratch - Panel with Michael Glatz, Daniel Sebit, Blake Nisius</li></ul>
+</ul> 
+<p></p><p>
+ <img src="https://img.shields.io/badge/ChiBrrCon-grey?style=plastic" height="20px">
+ </p>
+ </ul>
+<ul>
  <p><h3 align="left"><b>😍2023</b></h3></p>
  <ul><li>H-ISAC Cyber Threat Intel Program Development Working Group - The Expanding Universe of Cyber Threats</li></ul>
  <ul><li>BSidesSF - Keynote - The Expanding Universe of Cyber Threats</li></ul>
+ <ul><li>Highland Park High School - Cybercrime - 10/20/2023</li></ul>
 </ul> 
 <p></p><p>
 <img src="https://img.shields.io/badge/HISAC-fc24de?style=plastic" height="20px">
  <img src="https://img.shields.io/badge/BSidesSF-grey?style=plastic" height="20px">
+ <img src="https://img.shields.io/badge/HighlandParkHS-grey?style=plastic" height="20px">
  </p>
  </ul>
 <ul>
@@ -240,6 +252,7 @@
 </p>
 <p><h1 align="left"><b>AWARDS & SCHOLARSHIPS</b></h1></p>
 <ul>
+ <li>The Leadership Consortium Scholarship - August 2023</li> 
  <li>SANS FOR508 Capstone Challenge Coin Recipient - Team ChatGPT Ninja LLC - December 2022</li>
  <li>SANS Women's Academy 2017 Graduate</li>
  <li>ESET's 6th Annual Women in Cybersecurity Scholarship recipient 2021 - <a href="https://www.eset.com/us/about/newsroom/press-releases/eset-announces-2021-winners-of-women-in-cybersecurity-scholarship-awards/">Link</a></li>
