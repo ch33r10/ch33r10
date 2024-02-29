@@ -55,9 +55,10 @@
 <ul>
  <p><h3 align="left"><b>🏖️2024</b></h3></p>
   <ul><li>ChiBrrCon - Building Your First Cybersecurity Program from Scratch - Panel with Michael Glatz, Daniel Sebit, Blake Nisius</li></ul>
-</ul> 
+ <ul><li>Marymount University - Navigating the Journey of Earning a Doctorate in Cybersecurity - Panel with Dr. Fatou Sankare, Dr. Rudy Machuca, Dr. Shenita Freeman, Dr. Vito Nozza, and Dr. Kimberlee Ann Bronnock</li></ul> 
 <p></p><p>
  <img src="https://img.shields.io/badge/ChiBrrCon-grey?style=plastic" height="20px">
+ <img src="https://img.shields.io/badge/Marymount-fc24de?style=plastic" height="20px">
  </p>
  </ul>
 <ul>
