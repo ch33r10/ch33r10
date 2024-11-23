@@ -27,7 +27,7 @@
  <li>Curated Intelligence Member - July 2021 to Present</li>
  <li>Cyber Threat Intelligence Capability Maturity Model (CTI-CMM) - Risk Management Committee Member 2024</li> 
 <li>FS-ISAC Member - February 2018 to March 2021 and August 2023 to Present</li>
-  <li>Infragard Chicago Member 2019 to Present</li>
+  <li>Infragard Chicago Member - 2019 to Present</li>
  <li>YaraExchange Member - 2019 to Present</li>
 </ul>
 <p><h4 align="left"><b>FORMER</b></h4></p>
