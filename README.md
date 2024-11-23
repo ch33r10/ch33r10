@@ -1,19 +1,16 @@
 [![Header](https://github.com/ch33r10/ch33r10/blob/main/yaaasss/githhub%20profile%20banner_xo.png "Header")](https://sites.google.com/view/ch33r10/me)
-<p><h1 align="center"><b> Hola | Hiya | Yo | Salut | Привет | 안녕하세요 | 你好 | أهلا </b></p></h1>
+<p><h3 align="center"><b> Hola | Hiya | Yo | Salut | Привет | 안녕하세요 | 你好 | أهلا </b></p></h3>
 <p align="center"><a href="https://twitter.com/Ch33r10"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a> <a href="https://www.linkedin.com/in/xena-olsen/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a> <a href="https://www.youtube.com/c/Ch33r10"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/youtube.png"></a> <a href="https://open.spotify.com/playlist/20mPWgtf4Yt6QlPb5va09S?si=uMOT6bGETdyYmFgPkq7Xtg&dl_branch=1&nd=1"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/spotify.png"></a></p></h1>
-<p><h3 align="center"><b>HIGHLIGHT</b></h3></p>
-
- <p align="center">Doctoral Dissertation - Enterprise Purple Teaming - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></p>
    
 <p><h1 align="left"><b>ADVISORY & CFP REVIEW BOARDS</b></h1></p>
-<p><h3 align="left"><b>CURRENT</b></h3></p>
+<p><h4 align="left"><b>CURRENT</b></h4></p>
 <ul>
  <li>BlueTeamCon 2024</li> 
  <li>SANS EMEA CyberThreat Summit 2019 - 2024</li>
   <li>DEF CON Blue Team Village 2020 - 2024</li>
   <li>CactusCon 2019 - 2024</li>
 </ul>
-<p><h3 align="left"><b>FORMER</b></h3></p>
+<p><h4 align="left"><b>FORMER</b></h4></p>
  <ul>
  <li>SANS Pen Test HackFest 2021 - 2023</li>
   <li>SANS CTI Summit 2021</li>
@@ -23,7 +20,7 @@
  <li>Grayhat 2020 - Blue Team Village</li>
 </ul>
 <p><h1 align="left"><b>AFFILIATIONS, COMMITTEES & MEMBERSHIPS</b></h1></p>
- <p><h3 align="left"><b>CURRENT</b></h3></p>
+ <p><h4 align="left"><b>CURRENT</b></h4></p>
 <ul>
    <li>Blue Team Village Lead <a href="https://twitter.com/BlueTeamVillage">@BlueTeamVillage</a></li>
   <li>Cyber Threat Intelligence Capability Maturity Model (CTI-CMM) - Risk Management Committee Member 2024</li> 
@@ -33,7 +30,7 @@
  <li>YaraExchange Member - 2019 to Present</li>
  <li>FS-ISAC Member - February 2018 to March 2021 and August 2023 to Present</li>
 </ul>
-<p><h3 align="left"><b>FORMER</b></h3></p>
+<p><h4 align="left"><b>FORMER</b></h4></p>
 <ul>
 <li>H-ISAC Cyber Threat Intel Program Development Working Group Chair - January 2023 to June 2023</li>
  <li>H-ISAC Threat Intelligence Committee Member - August 2022 to June 2023</li>
@@ -46,6 +43,7 @@
 </ul>
 <p><h1 align="left"><b>CONTRIBUTIONS</b></h1></p>
 <ul>
+ <li><b>Doctoral Dissertation - Enterprise Purple Teaming - </b><a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></li>
  <li>Curated Intel - CTI Research Guide Reviewer 10/2024 - <a href="https://www.curatedintel.org/2024/10/the-cti-research-guide.html">Link</a></li>
  <li>Whitepaper Reviewer: SCYTHE's Purple Team Exercise Framework v1 (PTEF) 2020, SCYTHE's How Best to Operationalize Cyber Threat Intelligence (CTI) 2024</li>
  <li>Field Classifications Contribution for Attack2Jira by Mauricio Velazco and Olindo Verrillo - <a href="https://github.com/mvelazc0/attack2jira/pull/16">Link</a></li>
