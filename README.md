@@ -63,10 +63,10 @@
 <p><h1 align="left"><b>TALKS</b></h1></p>
 <ul>
  <p><h3 align="left"><b>🏖️2024</b></h3></p>
- <ul><li>WISP Chicago Chapter Meeting - Empowering Women in Security and Privacy - Panel with Xena Olsen, Shefali Mookencherry, Blair Dawson, Amy Kabaria</li></ul>
- <ul><li>DEF CON 32 Blue Team Village - CTI is Dead, Long Live CTI: Reassessing Blue Team's Squishiest Value Proposition - Panel with Ch33r10, Aurora Johnson, Jamie Williams, Rebecca Ford, and Ben Goerz</li></ul>
+ <ul><li>WISP Chicago Chapter Meeting - Empowering Women in Security and Privacy - Panel with Shefali Mookencherry, Blair Dawson, Amy Kabaria</li></ul>
+ <ul><li>DEF CON 32 Blue Team Village - CTI is Dead, Long Live CTI: Reassessing Blue Team's Squishiest Value Proposition - Panel with Aurora Johnson, Jamie Williams, Rebecca Ford, and Ben Goerz</li></ul>
  <ul><li>ISSA Chicago Secure XVI Keynote - Finally Making Your Threat Intel Useful</li></ul>
- <ul><li>Mindfluence Chicago AI Cybsersecurity Forum - Women at the Cybersecurity Frontier: Decoding AI, Ethics, and Inclusion - Panel with Marcia Peters, Wedny Betts, Xena Olsen, and Yovana Rosales</li></ul> 
+ <ul><li>Mindfluence Chicago AI Cybsersecurity Forum - Women at the Cybersecurity Frontier: Decoding AI, Ethics, and Inclusion - Panel with Marcia Peters, Wedny Betts, and Yovana Rosales</li></ul> 
   <ul><li>ChiBrrCon - Building Your First Cybersecurity Program from Scratch - Panel with Michael Glatz, Daniel Sebit, Blake Nisius</li></ul>
  <ul><li>Marymount University - Navigating the Journey of Earning a Doctorate in Cybersecurity - Panel with Dr. Fatou Sankare, Dr. Rudy Machuca, Dr. Shenita Freeman, Dr. Vito Nozza, and Dr. Kimberlee Ann Bronnock</li></ul> 
 <p></p><p>
