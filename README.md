@@ -1,51 +1,62 @@
 [![Header](https://github.com/ch33r10/ch33r10/blob/main/yaaasss/githhub%20profile%20banner_xo.png "Header")](https://sites.google.com/view/ch33r10/me)
 <p><h1 align="center"><b> Hola | Hiya | Yo | Salut | Привет | 안녕하세요 | 你好 | أهلا </b></p></h1>
 <p align="center"><a href="https://twitter.com/Ch33r10"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a> <a href="https://www.linkedin.com/in/xena-olsen/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a> <a href="https://www.youtube.com/c/Ch33r10"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/youtube.png"></a> <a href="https://open.spotify.com/playlist/20mPWgtf4Yt6QlPb5va09S?si=uMOT6bGETdyYmFgPkq7Xtg&dl_branch=1&nd=1"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/spotify.png"></a></p></h1>
+<p><h3 align="center"><b>HIGHLIGHT</b></h3></p>
+
+ <p align="center">Doctoral Dissertation - Enterprise Purple Teaming - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></p>
+   
+<p><h1 align="left"><b>ADVISORY & CFP REVIEW BOARDS</b></h1></p>
+<p><h3 align="left"><b>CURRENT</b></h3></p>
 <ul>
- <li>Doctoral Dissertation - Enterprise Purple Teaming - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></li>
- <li>Purple Team Exercise Idea Queue - <a href="https://docs.google.com/spreadsheets/d/1wHRrqwb1chTWP8kQqJjA2Chl7bUtCxRlobiyT3V2thE/edit#gid=267180436">Link</a></li>
- <li>Small Business Owner CTI Resource - <a href="https://github.com/ch33r10/SANSCTISummit2021">Link</a></li>
- <li>Stalkerware IOCs, Threat Report, & Reverse Engineering APKs - <a href="https://github.com/ch33r10/Stalkerware">Link</a></li>
-  </ul>
-<p><h1 align="left"><b>ADVISORY BOARDS & CFP REVIEW BOARDS</b></h1></p>
-<ul>
-  <li>SANS EMEA CyberThreat Summit 2019, 2022, 2023 & 2024</li>
-  <li>CactusCon 2019, 2020, 2021, 2022 & 2023</li>
- <li>SANS Pen Test HackFest 2021, 2022 & 2023</li>
- <li>DEF CON Blue Team Village 2020 - 2022</li>
- <li>SANS CTI Summit 2021</li>
+ <li>BlueTeamCon 2024</li> 
+ <li>SANS EMEA CyberThreat Summit 2019 - 2024</li>
+  <li>DEF CON Blue Team Village 2020 - 2024</li>
+  <li>CactusCon 2019 - 2024</li>
+</ul>
+<p><h3 align="left"><b>FORMER</b></h3></p>
+ <ul>
+ <li>SANS Pen Test HackFest 2021 - 2023</li>
+  <li>SANS CTI Summit 2021</li>
  <li>Purple Team Summit 2020</li>
   <li>SANS Purple Team Summit 2019 & 2021</li>
- <li>SANS Summit Steering Committee Member 2020</li>
- <li>CircleCityCon 2020</li>
- <li>Grayhat 2020 Blue Team Village</li>
+  <li>CircleCityCon 2020</li>
+ <li>Grayhat 2020 - Blue Team Village</li>
 </ul>
 <p><h1 align="left"><b>AFFILIATIONS, COMMITTEES & MEMBERSHIPS</b></h1></p>
+ <p><h3 align="left"><b>CURRENT</b></h3></p>
 <ul>
+   <li>Blue Team Village Lead <a href="https://twitter.com/BlueTeamVillage">@BlueTeamVillage</a></li>
+  <li>Cyber Threat Intelligence Capability Maturity Model (CTI-CMM) - Risk Management Committee Member 2024</li> 
   <li>Crimeware Member - 2019 to Present</li>
  <li>Curated Intelligence Member - July 2021 to Present</li>
   <li>Infragard Chicago Member 2019 to Present</li>
  <li>YaraExchange Member - 2019 to Present</li>
- <li>FS-ISAC Member - August 2023 to Present</li>
+ <li>FS-ISAC Member - February 2018 to March 2021 and August 2023 to Present</li>
+</ul>
+<p><h3 align="left"><b>FORMER</b></h3></p>
+<ul>
 <li>H-ISAC Cyber Threat Intel Program Development Working Group Chair - January 2023 to June 2023</li>
  <li>H-ISAC Threat Intelligence Committee Member - August 2022 to June 2023</li>
+ <li>H-ISAC Member - April 2021 to June 2023</li>
+ <li>ND-ISAC Member - April 2021 to June 2023</li>
  <li>ESET Women in Cybersecurity Scholarship Committee 2023</li>
   <li>National Science Foundation SaTC (Secure and Trustworthy Cyberspace) Participant 2020-2021</li>
+ <li>SANS Summit Steering Committee Member 2020</li>
  <li>CAPWIC Capital Region Celebration of Women in Computing Scholarship Committee 2020</li>
 </ul>
 <p><h1 align="left"><b>CONTRIBUTIONS</b></h1></p>
 <ul>
- <li>Reviewer for SCYTHE's Purple Team Exercise Framework v1 (PTEF)</li>
+ <li>Curated Intel - CTI Research Guide Reviewer 10/2024 - <a href="https://www.curatedintel.org/2024/10/the-cti-research-guide.html">Link</a></li>
+ <li>Whitepaper Reviewer: SCYTHE's Purple Team Exercise Framework v1 (PTEF) 2020, SCYTHE's How Best to Operationalize Cyber Threat Intelligence (CTI) 2024</li>
  <li>Field Classifications Contribution for Attack2Jira by Mauricio Velazco and Olindo Verrillo - <a href="https://github.com/mvelazc0/attack2jira/pull/16">Link</a></li>
  <li>Contributing Author to an O'Reilly book: 97 Things Every Information Security Professional Should Know by Christina Morillo <a href="https://twitter.com/divinetechygirl">@divinetechygirl</a></li> 
 </ul>
 <p><h1 align="left"><b>INFOSEC COMMUNITY PARTICIPATION</b></h1></p>
 <ul>
+ <li>Georgia Tech Cybersecurity Policy Program - Student Mentor 2024 - 2025</li>
  <li>SANS Holiday Hack Voice for an Elf at the end of the CTF - 12/2023</li>
- <li>Blue Team Village DEF CON 29 - Malware Analysis Tournament 6th Place</li>
- <li>Blue Team Village Lead (on sabbatical until June 2022) <a href="https://twitter.com/BlueTeamVillage">@BlueTeamVillage</a></li>
  <li>Blue Team Village Team Lead in Organizing a 3-day Conference at GrayHat 10/2020 <a href="https://www.youtube.com/playlist?list=PLvQcui-UIwfSroh1-9N1aEIVSP49tH0R_">BTV YouTube Playlist</a></li>
- <li>Founder of the Women in Information Security Study Group - <a href="https://www.facebook.com/groups/103159756921930/">Link</a></li>
+ <li>Founder of the Women in Information Security Study Group 2017 to Present - <a href="https://www.facebook.com/groups/103159756921930/">Link</a></li>
  <li>Circle City Con Social Media Marketing Specialist 2017-2020</li>
  <li>Diana Initiative Volunteer 8/2018</li>
  <li>DC602 Web Designer 2017</li>
@@ -54,18 +65,26 @@
 <p><h1 align="left"><b>TALKS</b></h1></p>
 <ul>
  <p><h3 align="left"><b>🏖️2024</b></h3></p>
+ <ul><li>WISP Chicago Chapter Meeting - Empowering Women in Security and Privacy - Panel with Xena Olsen, Shefali Mookencherry, Blair Dawson, Amy Kabaria</li></ul>
+ <ul><li>DEF CON 32 Blue Team Village - CTI is Dead, Long Live CTI: Reassessing Blue Team's Squishiest Value Proposition - Panel with Ch33r10, Aurora Johnson, Jamie Williams, Rebecca Ford, and Ben Goerz</li></ul>
+ <ul><li>ISSA Chicago Secure XVI Keynote - Finally Making Your Threat Intel Useful</li></ul>
+ <ul><li>Mindfluence Chicago AI Cybsersecurity Forum - Women at the Cybersecurity Frontier: Decoding AI, Ethics, and Inclusion - Panel with Marcia Peters, Wedny Betts, Xena Olsen, and Yovana Rosales</li></ul> 
   <ul><li>ChiBrrCon - Building Your First Cybersecurity Program from Scratch - Panel with Michael Glatz, Daniel Sebit, Blake Nisius</li></ul>
  <ul><li>Marymount University - Navigating the Journey of Earning a Doctorate in Cybersecurity - Panel with Dr. Fatou Sankare, Dr. Rudy Machuca, Dr. Shenita Freeman, Dr. Vito Nozza, and Dr. Kimberlee Ann Bronnock</li></ul> 
 <p></p><p>
+ <img src="https://img.shields.io/badge/WISP%20Chicago-grey?style=plastic" height="20px">
+ <img src="https://img.shields.io/badge/BlueTeamVillage%20DEF%20CON%2032-fc24de?style=plastic" height="20px">
+ <img src="https://img.shields.io/badge/ISSA%20Chicago-grey?style=plastic" height="20px">
+ <img src="https://img.shields.io/badge/Mindfluence-grey?style=plastic" height="20px">
  <img src="https://img.shields.io/badge/ChiBrrCon-grey?style=plastic" height="20px">
- <img src="https://img.shields.io/badge/Marymount-fc24de?style=plastic" height="20px">
+<img src="https://img.shields.io/badge/Marymount%20University-grey?style=plastic" height="20px">
  </p>
  </ul>
 <ul>
  <p><h3 align="left"><b>😍2023</b></h3></p>
  <ul><li>H-ISAC Cyber Threat Intel Program Development Working Group - The Expanding Universe of Cyber Threats</li></ul>
  <ul><li>BSidesSF - Keynote - The Expanding Universe of Cyber Threats</li></ul>
- <ul><li>Highland Park High School - Cybercrime - 10/20/2023</li></ul>
+ <ul><li>Highland Park High School - Choose Your Own Cybercrime Adventure - 10/20/2023</li></ul>
 </ul> 
 <p></p><p>
 <img src="https://img.shields.io/badge/HISAC-fc24de?style=plastic" height="20px">
@@ -246,7 +265,6 @@
 <ul>
  <li>Cornell - Leadership Essential Certificate - December 2023 - July 2024</li>
 <li>Cornell - Psychology of Leadership Certificate - January 2024 - July 2024</li>
- <li>Oakton Community College - Leadership and Management Courses - Spring 2024</li>
  <li>The Leadership Consortium - Leadership Training - September 2023 - November 2023</li>
  <li>McKinsey Connected Leaders Academy - Management Accelerator Program - May 2023 - June 2023</li>
  <li>D.Sc. Cybersecurity at Marymount University 2022 - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></li>
@@ -259,10 +277,11 @@
 <ul>
  <li>The Leadership Consortium Scholarship - August 2023</li> 
  <li>SANS FOR508 Capstone Challenge Coin Recipient - Team ChatGPT Ninja LLC - December 2022</li>
- <li>SANS Women's Academy 2017 Graduate</li>
  <li>ESET's 6th Annual Women in Cybersecurity Scholarship recipient 2021 - <a href="https://www.eset.com/us/about/newsroom/press-releases/eset-announces-2021-winners-of-women-in-cybersecurity-scholarship-awards/">Link</a></li>
+  <li>Blue Team Village DEF CON 29 - Malware Analysis Tournament 6th Place</li>
  <li>Security Innovation DEF CON 27 Scholarship 2019</li>
  <li>WISPDEFCON Scholarship DEF CON 26 - 2018</li>
+  <li>SANS Women's Academy 2017 Graduate</li>
  <li>Women in Tech Scholarship 2017</li>
  <li>Linux Security Summit and Open Source Summit Scholarship 2017</li>
  <li>Executive Women's Forum (EWF) Future Female Leaders Scholarship Program to attend BlackHat USA 2017</li>
