@@ -47,7 +47,7 @@
  <li>Curated Intel - CTI Research Guide Reviewer 10/2024 - <a href="https://www.curatedintel.org/2024/10/the-cti-research-guide.html">Link</a></li>
  <li>Whitepaper Reviewer: SCYTHE's Purple Team Exercise Framework v1 (PTEF) 2020, SCYTHE's How Best to Operationalize Cyber Threat Intelligence (CTI) 2024</li>
  <li>Field Classifications Contribution for Attack2Jira by Mauricio Velazco and Olindo Verrillo - <a href="https://github.com/mvelazc0/attack2jira/pull/16">Link</a></li>
- <li>Contributing Author to an O'Reilly book: 97 Things Every Information Security Professional Should Know by Christina Morillo <a href="https://twitter.com/divinetechygirl">@divinetechygirl</a></li> 
+ <li><i>Threat Intelligence in Two Steps.</i> Contributing Author  to 97 Things Every Information Security Professional Should Know by Christina Morillo. 2021. </li> 
 </ul>
 <p><h1 align="left"><b>INFOSEC COMMUNITY PARTICIPATION</b></h1></p>
 <ul>
