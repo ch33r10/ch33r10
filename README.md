@@ -5,13 +5,13 @@
 <p><h1 align="left"><b>ADVISORY & CFP REVIEW BOARDS</b></h1></p>
 <p><h4 align="left"><b>CURRENT</b></h4></p>
 <ul>
- <li>BlueTeamCon 2024</li>
-<li>CactusCon 2019 - 2024</li>
-<li>DEF CON Blue Team Village 2020 - 2024</li>
-<li>SANS EMEA CyberThreat Summit 2019 - 2024</li>
+ <li>BlueTeamCon 2024 - 2025</li>
+<li>DEF CON Blue Team Village 2020 - 2025</li>
 </ul>
 <p><h4 align="left"><b>FORMER</b></h4></p>
  <ul>
+  <li>CactusCon 2019 - 2024</li>
+  <li>SANS EMEA CyberThreat Summit 2019 - 2024</li>
  <li>SANS Pen Test HackFest 2021 - 2023</li>
   <li>SANS CTI Summit 2021</li>
  <li>Purple Team Summit 2020</li>
@@ -261,6 +261,7 @@
 </ul>
 <p><h1 align="left"><b>EDUCATION & CERTIFICATIONS</b></h1></p>
 <ul>
+ <li>Cornell - Technology Leadership Certificate - Janurary 2025 - August 2025</li>
  <li>Cornell - Leadership Essential Certificate - December 2023 - July 2024</li>
 <li>Cornell - Psychology of Leadership Certificate - January 2024 - July 2024</li>
  <li>The Leadership Consortium - Leadership Training - September 2023 - November 2023</li>
@@ -268,7 +269,19 @@
  <li>D.Sc. Cybersecurity at Marymount University 2022 - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></li>
  <li>MBA IT Management 2019</li>
  <li>BSIS Humanities and Science 2013</li></ul>
-<p></p><p>
+<p></p>
+<p><h3 align="left"><b>Cybersecurity Certifications</b></h3></p>
+<ul>
+ <li>GXPN - GIAC Exploit Researcher and Advanced Penetration Tester</li>
+ <li>GCTI - GIAC Cyber Threat Intelligence</li>
+ <li>GPEN - GIAC Penetration Tester Certification</li>
+ <li>GDAT - GIAC Defending Advanced Threats</li>
+ <li>GMON - GIAC Continuous Monitoring Certification</li>
+ <li>GCFE - GIAC Certified Forensic Examiner</li>
+ <li>GCIH - GIAC Certifiec Incident Handler Certification</li>
+ <li>GSEC - GIAC Security Essentials</li>
+</ul>
+<p> 
 <img src="https://img.shields.io/badge/GXPN-RED-red?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GPEN-RED-red?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GDAT-PURPLE-purple?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCTI-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GMON-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCFE-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCIH-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GSEC-BLUE-blue?style=plastic&logo=appveyor" height="20px">
 </p>
 <p><h1 align="left"><b>AWARDS & SCHOLARSHIPS</b></h1></p>
