@@ -6,12 +6,12 @@
 <p><h4 align="left"><b>CURRENT</b></h4></p>
 <ul>
  <li>BlueTeamCon 2024 - 2025</li>
+ <li>CactusCon 2019 - 2025</li>
 <li>DEF CON Blue Team Village 2020 - 2025</li>
+<li>SANS EMEA CyberThreat Summit 2019 - 2025</li>
 </ul>
 <p><h4 align="left"><b>FORMER</b></h4></p>
  <ul>
-  <li>CactusCon 2019 - 2024</li>
-  <li>SANS EMEA CyberThreat Summit 2019 - 2024</li>
  <li>SANS Pen Test HackFest 2021 - 2023</li>
   <li>SANS CTI Summit 2021</li>
  <li>Purple Team Summit 2020</li>
@@ -61,6 +61,13 @@
  <li>CCNA Cyber Ops Study Group Moderator 2016+</li>
 </ul>
 <p><h1 align="left"><b>TALKS</b></h1></p>
+<ul>
+ <p><h3 align="left"><b>😎2025</b></h3></p>
+<ul><li>Working For Women (W4W) - Women in Technology Talk</li></ul>
+<p></p><p>
+ <img src="https://img.shields.io/badge/W4W-grey?style=plastic" height="20px">
+</p>
+</ul>
 <ul>
  <p><h3 align="left"><b>🏖️2024</b></h3></p>
  <ul><li>WISP Chicago Chapter Meeting - Empowering Women in Security and Privacy - Panel with Shefali Mookencherry, Blair Dawson, Amy Kabaria</li></ul>
