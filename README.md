@@ -1,17 +1,232 @@
-[![Header](https://github.com/ch33r10/ch33r10/blob/main/yaaasss/githhub%20profile%20banner_xo.png "Header")](https://github.com/ch33r10)
+<H1 ALIGN="CENTER">XENA OLSEN</H1>
+<H4 ALIGN="CENTER">Cyber Threat Intelligence & Exposure Management Leader</H4>
+<H5 ALIGN="CENTER">D.Sc. Cybersecurity | MBA | 8x GIAC | Detection Engineering | Threat Hunting | Intelligence Fusion </H5>
+ <p>I’m a cyber threat intelligence and exposure management leader focused on intelligence fusion, adversary detection, threat hunting, vulnerability prioritization, identity risk, and executive cyber risk communication. My work connects threat intelligence, SOC telemetry, detection engineering, vulnerability management, and business context to help organizations make better security decisions.</p>
+  <p><h4 align="left"><b>IMPACT SNAPSHOT</b></h4></p>
+ <ul>
+<li>Built and scaled CTI programs across Fortune 100 & Fortune 500 environments</li>
+<li>Led threat hunting and detection engineering initiatives using MITRE ATT&CK</li>
+<li>Developed adversary detection pipeline methodology and shared public resources</li>
+<li>Presented internationally on CTI, purple teaming, stalkerware, and detection strategy</li>
+<li>Contributed to CTI community resources, working groups, and review boards</li>
+ </ul>
+
+## Current Focus
+- Intelligence fusion
+- Identity attack surface
+- Exposure management
+- AI integration
+- Detection engineering and threat hunting
+
+## Featured Work
+- Doctoral Dissertation - Enterprise Purple Teaming - 2022 - </b><a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a>
+- Threat Intelligence in Two Steps.</i> Contributing Author to 97 Things Every Information Security Professional Should Know by Christina Morillo. 2021.
+- LatinaStyle Article - Advocacy and Sponsorship are Vital by Dr. Xena Olsen, MBA - 2022 - <a href="http://www.magazinevolume.com/35350LS/">Link</a> p. 48
+
+## Selected Talks
+
+- BSidesSF - Keynote - The Expanding Universe of Cyber Threats - 2023
+- H-ISAC Cyber Threat Intel Program Development Working Group - CTI Program Development Workshop - 2022
+- MindTheSec - Keynote - SuperCharge Your Purple Team Exercises with Threat Intelligence - 2021
+- RSA Conference - Lessons Learned from Diverse Paths to Successful Cybersecurity Careers Panel with @hexplates & @InnoEroraha, Moderated by @John_Pescatore - 2021
+- BlackHat Asia - Adversary Detection Pipelines: Finally Making Your Threat Intel Useful - 2020
+- United Nations World Food Programme - Digital Abuse: Linking Cybersecurity and Intimate Partner Violence - 2020
+- Department of Defense CyberDT Cross-Service Working Group (XSWG) - Adversary Detection Pipelines - 2020
+
+
+## Community Leadership
+
+- Blue Team Con - Speaker Coordinator - 2025 to Present
+- Georgia Tech Cybersecurity Policy Program - Student Mentor - 2024 to Present
+
+<details><summary>Highlighted Former Leadership Roles</summary>
+
+- DEF CON Blue Team Village Staff Lead - 2020 to 2025
+- H-ISAC Cyber Threat Intel Program Development Working Group Chair - January 2023 to June 2023
+- H-ISAC Threat Intelligence Committee Member - August 2022 to June 2023
+- SANS EMEA CyberThreat Summit Advisory Board - 2019 to 2025
+- CactusCon CFP Advisory Board - 2019 to 2025
+
+</DETAILS>
+
+## Education, Certifications & Leadership Training
+
+<details><Summary>Education</Summary>
+ 
+- Marymount University - Doctorate of Science in Cybersecurity 2022 - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a>
+- Western Governors University - Master of Business Administration in Information Technology Management 2019
+- Northern Arizona University - Bachelor of Interdisciplinary Studies - Humanities and Science 2013
+</details>
+
+<details><summary>Leadership Training & Certificates</summary>
+ 
+- Cornell - Project Leadership Certificate - May 2026 - December 2026
+- Cornell - Conflict Resolution Certificate - August 2025 - December 2025
+- Cornell - Technology Leadership Certificate - January 2025 - August 2025
+- Cornell - Leadership Essential Certificate - December 2023 - July 2024
+- Cornell - Psychology of Leadership Certificate - January 2024 - July 2024
+- The Leadership Consortium - Leadership Training - September 2023 - November 2023
+- McKinsey Connected Leaders Academy - Management Accelerator Program - May 2023 - June 2023
+</details>
+
+<details><summary>Cybersecurity Certifications</summary>
+
+- GXPN - GIAC Exploit Researcher and Advanced Penetration Tester 2020
+- GCTI - GIAC Cyber Threat Intelligence 2020
+- GPEN - GIAC Penetration Tester Certification 2019
+- GDAT - GIAC Defending Advanced Threats 2019
+- GMON - GIAC Continuous Monitoring Certification 2019
+- GCFE - GIAC Certified Forensic Examiner 2018
+- GCIH - GIAC Certified Incident Handler Certification 2017
+- GSEC - GIAC Security Essentials 2017
+</details>
+
+## Awards & Scholarships
+
+- The Leadership Consortium Scholarship - August 2023
+- SANS FOR508 Capstone Challenge Coin Recipient - Team ChatGPT Ninja LLC - December 2022
+- ESET's 6th Annual Women in Cybersecurity Scholarship recipient 2021 - <a href="https://www.eset.com/us/about/newsroom/press-releases/eset-announces-2021-winners-of-women-in-cybersecurity-scholarship-awards/">Link</a>
+- SANS Women's Academy 2017 Graduate
+- Executive Women's Forum (EWF) Future Female Leaders Scholarship Program to attend BlackHat USA 2017
+
+
+## Full Speaking Archive
+<DETAILS><SUMMARY>2026</SUMMARY>
+
+- WiCys - High Tea: Power, Presence & Perspective - Table Host
+</details>
+
+<DETAILS><SUMMARY>2025</SUMMARY> 
+
+ - Working For Women (W4W) - Women in Technology Talk
+</details>
+
+<DETAILS><SUMMARY>2024</SUMMARY> 
+
+ - WISP Chicago Chapter Meeting - Empowering Women in Security and Privacy - Panel with Shefali Mookencherry, Blair Dawson, Amy Kabaria
+ - DEF CON 32 Blue Team Village - CTI is Dead, Long Live CTI: Reassessing Blue Team's Squishiest Value Proposition - Panel with Aurora Johnson, Jamie Williams, Rebecca Ford, and Ben Goerz
+ - ISSA Chicago Secure XVI Keynote - Finally Making Your Threat Intel Useful
+ - Mindfluence Chicago AI Cybersecurity Forum - Women at the Cybersecurity Frontier: Decoding AI, Ethics, and Inclusion - Panel with Marcia Peters, Wedny Betts, and Yovana Rosales
+ - ChiBrrCon - Building Your First Cybersecurity Program from Scratch - Panel with Michael Glatz, Daniel Sebit, Blake Nisius
+ - Marymount University - Navigating the Journey of Earning a Doctorate in Cybersecurity - Panel with Dr. Fatou Sankare, Dr. Rudy Machuca, Dr. Shenita Freeman, Dr. Vito Nozza, and Dr. Kimberlee Ann Bronnock
+</details>
+
+<DETAILS><SUMMARY>2023</SUMMARY> 
+
+- H-ISAC Cyber Threat Intel Program Development Working Group - The Expanding Universe of Cyber Threats
+- BSidesSF - Keynote - The Expanding Universe of Cyber Threats
+- Highland Park High School - Choose Your Own Cybercrime Adventure - 10/20/2023
+</details>
+
+<DETAILS><SUMMARY>2022</SUMMARY> 
+
+- H-ISAC October 2022 Monthly Threat Briefing - MFA/VPN Threats
+- H-ISAC Purple Team Working Group - Enterprise Purple Teaming
+- Marymount University - My Doctoral Dissertation Journey
+- H-ISAC Cyber Threat Intel Program Development Working Group - CTI Program Development Workshop
+- DEF CON 30 Blue Team Village Panel - The DFIR REPORT Homecoming Parade
+- RSAC Dark Arts Village - Let's Get Offensive: Building A Purple Culture
+- ISACA Madison - Adversary Detection Pipelines: Finally Making Your Threat Intel Useful
+- SunflowerCon - International Cybersecurity Incidents for In-House CTI Analysts
+- DEF CON SkyTalks New Year's Eve Twitch Stream
+</details>
+
+<DETAILS><SUMMARY>2021</SUMMARY> 
+
+ - DEF CON SkyTalks New Year's Eve Twitch Stream
+ - KringleCon - The Abominable Snowman's Threat Hunting Adventure
+ - BBC World Service Business Daily Interview 11/2021 - Stalkerware: Tech-enabled domestic abuse skyrocketing 
+ - BlueSpace Ekoparty - Keynote - Paint It, Blue: Transitioning from CTI to HUNT
+ - THOTCON - Adversary Detection Pipelines: Finally Making Your Threat Intel Useful
+ - MindTheSec - Keynote - SuperCharge Your Purple Team Exercises with Threat Intelligence
+ - BlueTeamVillage at DEF CON 29 - BTV Presents: Threat Report Roulette with Jorge Orchilles, Chris Russell, Danny D. Henderson Jr., Karan Aditya Ghoshal, Ricky Banda, Will Thomas, and Blind Hacker JoeB
+ - BlueTeamVillage at DEF CON 29 - BTV Presents: Welcome to #IRLIFE. A live IR TableTop Panel with Plug, @ttheveii0x, @scsideath, @Paladin316, @innismir, Wayland &  Bassem Helmy
+ - ISACA Tucson - Adversary Detection Pipelines: Finally Making Your Threat Intel Useful
+ - Temple University - Executive MBA Guest Lecture on Enterprise Cybersecurity
+ - RSAC - Lessons Learned from Diverse Paths to Successful Cybersecurity Careers Panel with @hexplates & @InnoEroraha, Moderated by @John_Pescatore
+ - RSAC - Jill and the BeenSTALKed Panel with @C_3PJoe, Moderated by @ChloeMessdaghi
+ - SANS CTI Summit - The CTI Shadow Army: Tales from the Trenches - Small Business Owner/Solopreneur Edition
+ - SANS CTI Summit - DAY 1 Wrap-Up Panel
+ - SANS CTI Summit - Day 2 Wrap-Up Panel
+ - SANS CTI Summit - Happy Hour: CTI Career Success
+</details>
+
+<DETAILS><SUMMARY>2020</SUMMARY> 
+
+- United Nations World Food Programme - Digital Abuse: Linking Cybersecurity and Intimate Partner Violence
+- SANS BIPOC in Cybersecurity Forum: From Inclusion to Equity - Public Speaking: Feel the Fear and Do It Anyway
+- BlackHat Asia - Adversary Detection Pipelines: Finally Making Your Threat Intel Useful
+- Ekoparty - Every Breath You Take: A CTI Review of Stalkerware
+- HATHCon - Cultivate Your Human Network Like a Garden Panel with @InfosecSherpa @Djax_Alpha
+- CONFidence Conf - Super Charge Your Purple Team Exercises with Threat Intelligence
+- Diana Initiative - CTI Mindset as a Technique for Blue Teamers
+- ITSP Magazine Podcast - Purple Teaming and CTI
+- RedTeamVillage at DEF CON 28 - Indicators of Emulation: Extra Spicy Adversary Emulation with @haydnjohnson
+- BlueTeamVillage at DEF CON 28 - Indicators of Emulation
+- BSides Porto - Every Breath You Take: A CTI Review of Stalkerware
+- CircleCityCon - Every Breath You Take: A CTI Review of Stalkerware
+- WHackzCon - Adversary Detection Pipelines: Finally Making Your Threat Intel Useful-KPOP THEMED
+- Guest Chef on Hacker Kitchen (Unicorn Chef) - Cooking Turkey Fajitas
+- Celebration of Cyber Scholarship - Review of my work since 5/2019
+- GRIMMCon - Adversary Detection Pipelines: Finally Making Your Threat Intel Useful with @B00m_s1ang @Wookiee @_glitchXR
+- ShmooCon XVI - Adversary Detection Pipelines: Finally Making Your Threat Intel Useful
+- Department of Defense CyberDT Cross-Service Working Group (XSWG) - Adversary Detection Pipelines
+- SANS CTI Summit - Every Breath You Take: A CTI Review of Stalkerware
+</details>
+
+<DETAILS><SUMMARY>2019</SUMMARY> 
+
+- BSides Chicago - Threat Intel For The Win!
+- ISC2 Security Congress - CTI AfterDark
+- SANS Purple Team Summit - Guardians of the Purple Team Galaxy: The Purple Agenda with @BenGoerz
+- Texas Cyber Summit - Winning Everyday at Threat Intel
+- Digital Shadows #ShadowTalk Podcast - Threat Intel Time Management & Prioritization
+- ICMCP Annual Conference - CTI: TTPs vs. Attribution
+- DerbyCon IX - It Must Be Fancy Bear!
+- Mental Health Hackers Village at DerbyCon IX - Hacking the Autonomic Nervous System with Somatic Experiencing
+- SANS Women's Connect Event - My Infosec Journey
+- Breaking Badness Podcast - Summer Camp 2019 Mini-Series
+- Diana Initiative - CTI AfterDark
+- Diana Initiative - In The Wake of Advanced Persistent Threat...to Your Personal Safety with @hexplates
+- BlueTeamVillage at DEF CON 27 - The Cyber Threat Intelligence Mindset
+- SANS Webcast - ATT&CKing your Enterprise: Adversary Detection Pipelines & Adversary Simulation with @BenGoerz
+- Purple Squad Security Podcast - Episode 59: Business Processes in Infosec with Cheerio
+- CircleCityCon - F! Attribution
+- RSAC - IOT Security Panel
+- RSAC - Peer2Peer Session: Leveraging Tactical Threat Intelligence for Strategic Decision Making
+- RSAC - Birds of a Feather: Everyday Leadership for Women in Information Security
+- Art into Science: A Conference for Defense ACoD - CTI 24/7: Operationalizing Cyber Threat Intelligence
+- SANS CTI Summit - Lightning Talk
+- ShmooCon XV - CTI 24/7: Operationalizing Cyber Threat Intelligence
+- SANS Webcast - CTI 24/7: Operationalizing Cyber Threat Intelligence
+</details>
+
+<DETAILS><SUMMARY>2018</SUMMARY> 
+
+ - THEIIA/ISACA/ISSA Chicago Chapter Annual Conference - A Day in the Life of a CTI Analyst with Jared Peck
+</details>
+
+
+## Disclaimer
+<small><details><summary>Expand</small></summary>
+ <sub>"The opinions expressed in this Github repo are those of the individual account, in their individual capacity, and not necessarily those of the employers. Mention of any vendors, services, products, or otherwise does not endorse them as a vendor. This content and any related discussions are solely the views, opinions, and experiences of the participants and should not be presumed to reflect the opinion or the official position of any employers of the participants. Examples and views provided herein, including strategies, goals, targets, and indicators are for illustrative purposes only and should not be regarded as representative of the participants' employers or respective portfolios. To the extent that this participation, discussion, and interview outlines a general technology direction, the participants' employers have no obligation to pursue any such approach or to develop or use any functionality mentioned herein. Any suggested technology strategy or possible future developments are subject to change at the employers' sole discretion without notice. Content in this presentation is the intellectual property of the applicable creators and may be protected under the copyright laws of the United States and/or other countries. All trademarks are the property of their respective owners and are used for informational purposes only."</sub></details>
+ <p>
+ <h3 align="left"><small>ADDITIONAL DETAILS</small></h3>
+ <details><summary>ARCHIVE</summary>
+ <!-- [![Header](https://github.com/ch33r10/ch33r10/blob/main/yaaasss/githhub%20profile%20banner_xo.png "Header")](https://github.com/ch33r10) -->
 <!-- <p><h3 align="center"><b> Hola | Hiya | Yo | Salut | Привет | 안녕하세요 | 你好 | أهلا </b></p></h3>
  <p align="center"><a href="https://twitter.com/Ch33r10"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a> <a href="https://www.linkedin.com/in/xena-olsen/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a> <a href="https://www.youtube.com/c/Ch33r10"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/youtube.png"></a> <a href="https://open.spotify.com/playlist/20mPWgtf4Yt6QlPb5va09S?si=uMOT6bGETdyYmFgPkq7Xtg&dl_branch=1&nd=1"><img height="30" src="https://github.com/ch33r10/ch33r10/blob/main/yaaasss/spotify.png"></a></p></h1> -->
-   
-<p><h1 align="left"><b>ADVISORY & CFP REVIEW BOARDS</b></h1></p>
+<p><h2 align="left"><b>ADVISORY & CFP REVIEW BOARDS</b></h2></p>
 <p><h4 align="left"><b>CURRENT</b></h4></p>
 <ul>
- <li>BlueTeamCon 2024 - 2025</li>
- <li>CactusCon 2019 - 2025</li>
-<li>DEF CON Blue Team Village 2020 - 2025</li>
-<li>SANS EMEA CyberThreat Summit 2019 - 2025</li>
+ <li>TBD for 2026</li>
 </ul>
 <p><h4 align="left"><b>FORMER</b></h4></p>
  <ul>
+ <li>BlueTeamCon 2024 - 2025</li>
+ <li>CactusCon 2019 - 2025</li>
+<li>SANS EMEA CyberThreat Summit 2019 - 2025</li>
+  <li>DEF CON Blue Team Village 2020 - 2024</li>
  <li>SANS Pen Test HackFest 2021 - 2023</li>
   <li>SANS CTI Summit 2021</li>
  <li>Purple Team Summit 2020</li>
@@ -19,19 +234,19 @@
   <li>CircleCityCon 2020</li>
  <li>Grayhat 2020 - Blue Team Village</li>
 </ul>
-<p><h1 align="left"><b>AFFILIATIONS, COMMITTEES & MEMBERSHIPS</b></h1></p>
+<p><h2 align="left"><b>AFFILIATIONS, COMMITTEES & MEMBERSHIPS</b></h2></p>
  <p><h4 align="left"><b>CURRENT</b></h4></p>
 <ul>
-   <li>Blue Team Village Lead <a href="https://twitter.com/BlueTeamVillage">@BlueTeamVillage</a></li>
   <li>Crimeware Member - 2019 to Present</li>
  <li>Curated Intelligence Member - July 2021 to Present</li>
- <li>Cyber Threat Intelligence Capability Maturity Model (CTI-CMM) - Risk Management Committee Member 2024</li> 
 <li>FS-ISAC Member - February 2018 to March 2021 and August 2023 to Present</li>
   <li>Infragard Chicago Member - 2019 to Present</li>
+  <li>North Shore Yacht Club - 2026 to Present</li>
  <li>YaraExchange Member - 2019 to Present</li>
 </ul>
 <p><h4 align="left"><b>FORMER</b></h4></p>
 <ul>
+  <li>Blue Team Village Lead <a href="https://twitter.com/BlueTeamVillage">@BlueTeamVillage</a></li>
 <li>H-ISAC Cyber Threat Intel Program Development Working Group Chair - January 2023 to June 2023</li>
  <li>H-ISAC Threat Intelligence Committee Member - August 2022 to June 2023</li>
  <li>H-ISAC Member - April 2021 to June 2023</li>
@@ -41,7 +256,7 @@
  <li>SANS Summit Steering Committee Member 2020</li>
  <li>CAPWIC Capital Region Celebration of Women in Computing Scholarship Committee 2020</li>
 </ul>
-<p><h1 align="left"><b>CONTRIBUTIONS</b></h1></p>
+<p><h2 align="left"><b>CONTRIBUTIONS</b></h2></p>
 <ul>
  <li><b>Doctoral Dissertation - Enterprise Purple Teaming - </b><a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a></li>
  <li>Curated Intel - CTI Research Guide Reviewer 10/2024 - <a href="https://www.curatedintel.org/2024/10/the-cti-research-guide.html">Link</a></li>
@@ -49,9 +264,10 @@
  <li>Field Classifications Contribution for Attack2Jira by Mauricio Velazco and Olindo Verrillo - <a href="https://github.com/mvelazc0/attack2jira/pull/16">Link</a></li>
  <li><i>Threat Intelligence in Two Steps.</i> Contributing Author  to 97 Things Every Information Security Professional Should Know by Christina Morillo. 2021. </li> 
 </ul>
-<p><h1 align="left"><b>INFOSEC COMMUNITY PARTICIPATION</b></h1></p>
+<p><h2 align="left"><b>INFOSEC COMMUNITY PARTICIPATION</b></h2></p>
 <ul>
- <li>Georgia Tech Cybersecurity Policy Program - Student Mentor 2024 - 2025</li>
+ <li>Blue Team Con Speaker Coordinator 2025 - 2026</li>
+ <li>Georgia Tech Cybersecurity Policy Program - Student Mentor 2024 - 2026</li>
  <li>SANS Holiday Hack Voice for an Elf at the end of the CTF - 12/2023</li>
  <li>Blue Team Village Team Lead in Organizing a 3-day Conference at GrayHat 10/2020 <a href="https://www.youtube.com/playlist?list=PLvQcui-UIwfSroh1-9N1aEIVSP49tH0R_">BTV YouTube Playlist</a></li>
  <li>Founder of the Women in Information Security Study Group 2017 to Present - <a href="https://www.facebook.com/groups/103159756921930/">Link</a></li>
@@ -60,9 +276,16 @@
  <li>DC602 Web Designer 2017</li>
  <li>CCNA Cyber Ops Study Group Moderator 2016+</li>
 </ul>
-<p><h1 align="left"><b>TALKS</b></h1></p>
+<p><h2 align="left"><b>TALKS</b></h2></p>
 <ul>
- <p><h3 align="left"><b>😎2025</b></h3></p>
+ <p><h3 align="left"><b>⛵2026</b></h3></p>
+<ul><li>WiCys - High Tea: Power, Presence & Perspective - Table Host</li></ul>
+<p></p><p>
+ <img src="https://img.shields.io/badge/WiCyS-grey?style=plastic" height="20px">
+</p>
+</ul>
+<ul>
+ <p><h3 align="left"><b>🎶2025</b></h3></p>
 <ul><li>Working For Women (W4W) - Women in Technology Talk</li></ul>
 <p></p><p>
  <img src="https://img.shields.io/badge/W4W-grey?style=plastic" height="20px">
@@ -73,7 +296,7 @@
  <ul><li>WISP Chicago Chapter Meeting - Empowering Women in Security and Privacy - Panel with Shefali Mookencherry, Blair Dawson, Amy Kabaria</li></ul>
  <ul><li>DEF CON 32 Blue Team Village - CTI is Dead, Long Live CTI: Reassessing Blue Team's Squishiest Value Proposition - Panel with Aurora Johnson, Jamie Williams, Rebecca Ford, and Ben Goerz</li></ul>
  <ul><li>ISSA Chicago Secure XVI Keynote - Finally Making Your Threat Intel Useful</li></ul>
- <ul><li>Mindfluence Chicago AI Cybsersecurity Forum - Women at the Cybersecurity Frontier: Decoding AI, Ethics, and Inclusion - Panel with Marcia Peters, Wedny Betts, and Yovana Rosales</li></ul> 
+ <ul><li>Mindfluence Chicago AI Cybersecurity Forum - Women at the Cybersecurity Frontier: Decoding AI, Ethics, and Inclusion - Panel with Marcia Peters, Wedny Betts, and Yovana Rosales</li></ul> 
   <ul><li>ChiBrrCon - Building Your First Cybersecurity Program from Scratch - Panel with Michael Glatz, Daniel Sebit, Blake Nisius</li></ul>
  <ul><li>Marymount University - Navigating the Journey of Earning a Doctorate in Cybersecurity - Panel with Dr. Fatou Sankare, Dr. Rudy Machuca, Dr. Shenita Freeman, Dr. Vito Nozza, and Dr. Kimberlee Ann Bronnock</li></ul> 
 <p></p><p>
@@ -249,7 +472,7 @@
 <p></p><p>
 <img src="https://img.shields.io/badge/THEIIA%20ISACA%20ISSA-grey?style=plastic" height="20px"> 
 </p> 
-<p><h1 align="left"><b>ARTICLES</b></h1></p>
+<p><h2 align="left"><b>ARTICLES</b></h2></p>
 <ul>
  <li>tl;dr sec Newsletter mention - Enterprise Purple Teaming - <a href="https://tldrsec.com/p/tldr-sec-186">Link</a></li> 
  <li>Marymount University Spotlight - Dr. Xena Olsen - <a href="https://marymount.edu/spotlights/dr-xena-olsen/">Link</a></li>
@@ -266,9 +489,11 @@
 <li>Tanya Janca Blog Mention for Hacker Summer Camp 2019 - <a href="https://infosecwriteups.com/hacker-summer-camp-2019-230bb0cad589">Link</a></li>
 <li>Katie Nickels Blog Mention - <a href="https://medium.com/katies-five-cents/the-struggle-between-self-promotion-and-humility-e2889b07aa38">Link</a></li>
 </ul>
-<p><h1 align="left"><b>EDUCATION & CERTIFICATIONS</b></h1></p>
+<p><h2 align="left"><b>EDUCATION & CERTIFICATIONS</b></h2></p>
 <ul>
- <li>Cornell - Technology Leadership Certificate - Janurary 2025 - August 2025</li>
+ <li>Cornell - Project Leadership Certificate - May 2026 - December 2026</li>
+ <li>Cornell - Conflict Resolution Certificate - August 2025 - December 2025</li>
+ <li>Cornell - Technology Leadership Certificate - January 2025 - August 2025</li>
  <li>Cornell - Leadership Essential Certificate - December 2023 - July 2024</li>
 <li>Cornell - Psychology of Leadership Certificate - January 2024 - July 2024</li>
  <li>The Leadership Consortium - Leadership Training - September 2023 - November 2023</li>
@@ -285,13 +510,13 @@
  <li>GDAT - GIAC Defending Advanced Threats</li>
  <li>GMON - GIAC Continuous Monitoring Certification</li>
  <li>GCFE - GIAC Certified Forensic Examiner</li>
- <li>GCIH - GIAC Certifiec Incident Handler Certification</li>
+ <li>GCIH - GIAC Certified Incident Handler Certification</li>
  <li>GSEC - GIAC Security Essentials</li>
 </ul>
 <p> 
 <img src="https://img.shields.io/badge/GXPN-RED-red?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GPEN-RED-red?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GDAT-PURPLE-purple?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCTI-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GMON-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCFE-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCIH-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GSEC-BLUE-blue?style=plastic&logo=appveyor" height="20px">
 </p>
-<p><h1 align="left"><b>AWARDS & SCHOLARSHIPS</b></h1></p>
+<p><h2 align="left"><b>AWARDS & SCHOLARSHIPS</b></h2></p>
 <ul>
  <li>The Leadership Consortium Scholarship - August 2023</li> 
  <li>SANS FOR508 Capstone Challenge Coin Recipient - Team ChatGPT Ninja LLC - December 2022</li>
@@ -307,5 +532,8 @@
 </ul>
 <b></b>
 <hr></hr>
-<h6 align="center"><small>FOR THE LAWYERS</small></h6>
-<h6 align="center"><sub>"The opinions expressed in this Github repo are those of the individual account, in their individual capacity, and not necessarily those of the employers. Mention of any vendors, services, products, or otherwise does not endorse them as a vendor. This content and any related discussions are solely the views, opinions, and experiences of the participants and should not be presumed to reflect the opinion or the official position of any employers of the participants. Examples and views provided herein, including strategies, goals, targets, and indicators are for illustrative purposes only and should not be regarded as representative of the participants' employers or respective portfolios. To the extent that this participation, discussion, and interview outlines a general technology direction, the participants' employers have no obligation to pursue any such approach or to develop or use any functionality mentioned herein. Any suggested technology strategy or possible future developments are subject to change at the employers' sole discretion without notice. Content in this presentation is the intellectual property of the applicable creators and may be protected under the copyright laws of the United States and/or other countries. All trademarks are the property of their respective owners and are used for informational purposes only."</sub></h6>
+
+
+  
+ </details>
+</p>
