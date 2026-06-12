@@ -1,22 +1,26 @@
 <H1 ALIGN="CENTER">XENA OLSEN</H1>
 <H4 ALIGN="CENTER">Cyber Threat Intelligence & Exposure Management Leader</H4>
 <H5 ALIGN="CENTER">D.Sc. Cybersecurity | MBA | 8x GIAC | Detection Engineering | Threat Hunting | Intelligence Fusion </H5>
- <p>I’m a cyber threat intelligence and exposure management leader focused on intelligence fusion, adversary detection, threat hunting, vulnerability prioritization, identity risk, and executive cyber risk communication. My work connects threat intelligence, SOC telemetry, detection engineering, vulnerability management, and business context to help organizations make better security decisions.</p>
-  <p><h4 align="left"><b>IMPACT SNAPSHOT</b></h4></p>
- <ul>
-<li>Built and scaled CTI programs across Fortune 100 & Fortune 500 environments</li>
-<li>Led threat hunting and detection engineering initiatives using MITRE ATT&CK</li>
-<li>Developed adversary detection pipeline methodology and shared public resources</li>
-<li>Presented internationally on CTI, purple teaming, stalkerware, and detection strategy</li>
-<li>Contributed to CTI community resources, working groups, and review boards</li>
- </ul>
+ <p>I lead cyber threat intelligence and exposure management programs that connect adversary behavior, SOC telemetry, detection logic, vulnerability data, identity risk, cloud/SaaS exposure, and business context into actionable security decisions. My work focuses on making threat intelligence operational by improving detections, prioritizing exposures, supporting incident response, reducing alert noise, and helping executives understand where cyber risk is most likely to affect the business.</p>
+ 
 
 ## Current Focus
-- Intelligence fusion
-- Identity attack surface
-- Exposure management
-- AI integration
-- Detection engineering and threat hunting
+- Intelligence fusion across SOC telemetry, threat intelligence, detection rules, vulnerabilities, and business risk
+- Cyber-enabled fraud, social engineering, BEC, phishing, identity abuse, and credential compromise
+- Exposure management across cloud, SaaS, third-party dependencies, and hybrid environments
+- MITRE ATT&CK-based threat research, threat hunting, and detection engineering
+- AI-enabled threat risk, GenAI-assisted security workflows, and AI agents for security operations
+- Executive threat reporting, security program maturity, and cross-functional cyber risk communication
+
+## What I Build & Operationalize
+
+- Threat intelligence programs, service catalogs, stakeholder intake models, and executive reporting
+- Intelligence fusion workflows that correlate SOC telemetry, threat intelligence, detections, MITRE ATT&CK mappings, vulnerabilities, and business risk
+- Threat hunting and detection engineering based on adversary TTPs and observed threat trends
+- Exposure management processes that prioritize vulnerabilities by exploitability, asset context, threat activity, and business impact
+- Cloud and identity threat analysis across Entra ID, Okta, Microsoft Defender for Cloud, AWS, Azure, GCP, SaaS platforms, and third-party integrations
+- SOC metrics, dashboards, XSOAR workflows, automation, and reporting pipelines
+- Strategic threat intelligence reports, actor profiles, RFIs, threat narratives, tabletop exercises, and executive briefings
 
 ## Featured Work
 - Doctoral Dissertation - Enterprise Purple Teaming - 2022 - </b><a href="https://github.com/ch33r10/EnterprisePurpleTeaming">Link</a>
@@ -106,7 +110,7 @@
  - WISP Chicago Chapter Meeting - Empowering Women in Security and Privacy - Panel with Shefali Mookencherry, Blair Dawson, Amy Kabaria
  - DEF CON 32 Blue Team Village - CTI is Dead, Long Live CTI: Reassessing Blue Team's Squishiest Value Proposition - Panel with Aurora Johnson, Jamie Williams, Rebecca Ford, and Ben Goerz
  - ISSA Chicago Secure XVI Keynote - Finally Making Your Threat Intel Useful
- - Mindfluence Chicago AI Cybersecurity Forum - Women at the Cybersecurity Frontier: Decoding AI, Ethics, and Inclusion - Panel with Marcia Peters, Wedny Betts, and Yovana Rosales
+ - Mindfluence Chicago AI Cybersecurity Forum - Women at the Cybersecurity Frontier: Decoding AI, Ethics, and Inclusion - Panel with Marcia Peters, Wendy Betts, and Yovana Rosales
  - ChiBrrCon - Building Your First Cybersecurity Program from Scratch - Panel with Michael Glatz, Daniel Sebit, Blake Nisius
  - Marymount University - Navigating the Journey of Earning a Doctorate in Cybersecurity - Panel with Dr. Fatou Sankare, Dr. Rudy Machuca, Dr. Shenita Freeman, Dr. Vito Nozza, and Dr. Kimberlee Ann Bronnock
 </details>
@@ -296,7 +300,7 @@
  <ul><li>WISP Chicago Chapter Meeting - Empowering Women in Security and Privacy - Panel with Shefali Mookencherry, Blair Dawson, Amy Kabaria</li></ul>
  <ul><li>DEF CON 32 Blue Team Village - CTI is Dead, Long Live CTI: Reassessing Blue Team's Squishiest Value Proposition - Panel with Aurora Johnson, Jamie Williams, Rebecca Ford, and Ben Goerz</li></ul>
  <ul><li>ISSA Chicago Secure XVI Keynote - Finally Making Your Threat Intel Useful</li></ul>
- <ul><li>Mindfluence Chicago AI Cybersecurity Forum - Women at the Cybersecurity Frontier: Decoding AI, Ethics, and Inclusion - Panel with Marcia Peters, Wedny Betts, and Yovana Rosales</li></ul> 
+ <ul><li>Mindfluence Chicago AI Cybersecurity Forum - Women at the Cybersecurity Frontier: Decoding AI, Ethics, and Inclusion - Panel with Marcia Peters, Wendy Betts, and Yovana Rosales</li></ul> 
   <ul><li>ChiBrrCon - Building Your First Cybersecurity Program from Scratch - Panel with Michael Glatz, Daniel Sebit, Blake Nisius</li></ul>
  <ul><li>Marymount University - Navigating the Journey of Earning a Doctorate in Cybersecurity - Panel with Dr. Fatou Sankare, Dr. Rudy Machuca, Dr. Shenita Freeman, Dr. Vito Nozza, and Dr. Kimberlee Ann Bronnock</li></ul> 
 <p></p><p>
