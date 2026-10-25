@@ -98,6 +98,7 @@
 <DETAILS><SUMMARY>2026</SUMMARY>
 
 - WiCys - High Tea: Power, Presence & Perspective - Table Host
+- FS-ISAC 2026 Fall Summit - The Chollima Files: A DPRK Case Study - Co-Speaker with Benjamin Padgitt
 </details>
 
 <DETAILS><SUMMARY>2025</SUMMARY> 
@@ -284,8 +285,10 @@
 <ul>
  <p><h3 align="left"><b>⛵2026</b></h3></p>
 <ul><li>WiCys - High Tea: Power, Presence & Perspective - Table Host</li></ul>
+ <ul><li>FS-ISAC 2026 Fall Summit - The Chollima Files: A DPRK Case Study - Co-Speaker with Benjamin Padgitt</li></ul>
 <p></p><p>
  <img src="https://img.shields.io/badge/WiCyS-grey?style=plastic" height="20px">
+  <img src="https://img.shields.io/badge/FSISAC-grey?style=plastic" height="20px">
 </p>
 </ul>
 <ul>
